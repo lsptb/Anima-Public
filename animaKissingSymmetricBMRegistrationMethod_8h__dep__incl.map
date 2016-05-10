@@ -1,12 +1,12 @@
 <map id="animaKissingSymmetricBMRegistrationMethod.h" name="animaKissingSymmetricBMRegistrationMethod.h">
-<area shape="rect" id="node2" href="$animaKissingSymmetricBMRegistrationMethod_8hxx.html" title="animaKissingSymmetricBMRegistration\lMethod.hxx" alt="" coords="4,97,251,138"/>
-<area shape="rect" id="node3" href="$animaPyramidalDenseSVFMatchingBridge_8hxx.html" title="animaPyramidalDenseSVFMatching\lBridge.hxx" alt="" coords="277,97,504,138"/>
-<area shape="rect" id="node6" href="$animaPyramidalBlockMatchingBridge_8hxx.html" title="animaPyramidalBlockMatching\lBridge.hxx" alt="" coords="529,97,728,138"/>
-<area shape="rect" id="node9" href="$animaPyramidalDenseTensorSVFMatchingBridge_8hxx.html" title="animaPyramidalDenseTensor\lSVFMatchingBridge.hxx" alt="" coords="779,97,968,138"/>
-<area shape="rect" id="node4" href="$animaPyramidalDenseSVFMatchingBridge_8h.html" title="animaPyramidalDenseSVFMatching\lBridge.h" alt="" coords="277,187,504,229"/>
-<area shape="rect" id="node5" href="$animaDenseSVFBMRegistration_8cxx.html" title="animaDenseSVFBMRegistration.cxx" alt="" coords="265,277,492,304"/>
-<area shape="rect" id="node7" href="$animaPyramidalBlockMatchingBridge_8h.html" title="animaPyramidalBlockMatching\lBridge.h" alt="" coords="529,187,728,229"/>
-<area shape="rect" id="node8" href="$animaPyramidalBMRegistration_8cxx.html" title="animaPyramidalBMRegistration.cxx" alt="" coords="517,277,740,304"/>
-<area shape="rect" id="node10" href="$animaPyramidalDenseTensorSVFMatchingBridge_8h.html" title="animaPyramidalDenseTensor\lSVFMatchingBridge.h" alt="" coords="779,187,968,229"/>
-<area shape="rect" id="node11" href="$animaDenseTensorSVFBMRegistration_8cxx.html" title="animaDenseTensorSVFBMRegistration.cxx" alt="" coords="765,277,1032,304"/>
+<area shape="rect" id="node2" href="$animaKissingSymmetricBMRegistrationMethod_8hxx.html" title="animaKissingSymmetricBMRegistration\lMethod.hxx" alt="" coords="5,92,260,131"/>
+<area shape="rect" id="node3" href="$animaPyramidalDenseSVFMatchingBridge_8hxx.html" title="animaPyramidalDenseSVFMatching\lBridge.hxx" alt="" coords="284,92,520,131"/>
+<area shape="rect" id="node6" href="$animaPyramidalBlockMatchingBridge_8hxx.html" title="animaPyramidalBlockMatching\lBridge.hxx" alt="" coords="544,92,748,131"/>
+<area shape="rect" id="node9" href="$animaPyramidalDenseTensorSVFMatchingBridge_8hxx.html" title="animaPyramidalDenseTensor\lSVFMatchingBridge.hxx" alt="" coords="799,92,994,131"/>
+<area shape="rect" id="node4" href="$animaPyramidalDenseSVFMatchingBridge_8h.html" title="animaPyramidalDenseSVFMatching\lBridge.h" alt="" coords="284,179,520,217"/>
+<area shape="rect" id="node5" href="$animaDenseSVFBMRegistration_8cxx.html" title="animaDenseSVFBMRegistration.cxx" alt="" coords="269,265,506,291"/>
+<area shape="rect" id="node7" href="$animaPyramidalBlockMatchingBridge_8h.html" title="animaPyramidalBlockMatching\lBridge.h" alt="" coords="544,179,748,217"/>
+<area shape="rect" id="node8" href="$animaPyramidalBMRegistration_8cxx.html" title="animaPyramidalBMRegistration.cxx" alt="" coords="530,265,762,291"/>
+<area shape="rect" id="node10" href="$animaPyramidalDenseTensorSVFMatchingBridge_8h.html" title="animaPyramidalDenseTensor\lSVFMatchingBridge.h" alt="" coords="799,179,994,217"/>
+<area shape="rect" id="node11" href="$animaDenseTensorSVFBMRegistration_8cxx.html" title="animaDenseTensorSVFBMRegistration.cxx" alt="" coords="786,265,1063,291"/>
 </map>

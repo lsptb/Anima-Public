@@ -1,7 +1,7 @@
 <map id="anima::Graph&lt; captype, tcaptype, flowtype &gt;" name="anima::Graph&lt; captype, tcaptype, flowtype &gt;">
-<area shape="rect" id="node2" href="$structanima_1_1Graph_1_1nodeptr.html" title="anima::Graph\&lt; captype,\l tcaptype, flowtype \&gt;\l::nodeptr" alt="" coords="253,145,411,201"/>
-<area shape="rect" id="node3" href="$structanima_1_1Graph_1_1node.html" title="anima::Graph\&lt; captype,\l tcaptype, flowtype \&gt;\l::node" alt="" coords="6,180,165,236"/>
-<area shape="rect" id="node4" href="$structanima_1_1Graph_1_1arc.html" title="anima::Graph\&lt; captype,\l tcaptype, flowtype \&gt;::arc" alt="" coords="251,279,413,321"/>
-<area shape="rect" id="node5" href="$classanima_1_1Block.html" title="anima::Block\&lt; node_id \&gt;" alt="" coords="251,345,413,372"/>
-<area shape="rect" id="node6" href="$classanima_1_1DBlock.html" title="anima::DBlock\&lt; anima\l::Graph::nodeptr \&gt;" alt="" coords="257,397,407,438"/>
+<area shape="rect" id="node2" href="$structanima_1_1Graph_1_1nodeptr.html" title="anima::Graph\&lt; captype,\l tcaptype, flowtype \&gt;\l::nodeptr" alt="" coords="261,139,425,191"/>
+<area shape="rect" id="node3" href="$structanima_1_1Graph_1_1node.html" title="anima::Graph\&lt; captype,\l tcaptype, flowtype \&gt;\l::node" alt="" coords="5,173,169,225"/>
+<area shape="rect" id="node4" href="$structanima_1_1Graph_1_1arc.html" title="anima::Graph\&lt; captype,\l tcaptype, flowtype \&gt;::arc" alt="" coords="258,266,427,305"/>
+<area shape="rect" id="node5" href="$classanima_1_1Block.html" title="anima::Block\&lt; node_id \&gt;" alt="" coords="259,329,427,354"/>
+<area shape="rect" id="node6" href="$classanima_1_1DBlock.html" title="anima::DBlock\&lt; nodeptr \&gt;" alt="" coords="255,378,431,403"/>
 </map>

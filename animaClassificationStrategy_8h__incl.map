@@ -1,9 +1,9 @@
 <map id="animaClassificationStrategy.h" name="animaClassificationStrategy.h">
-<area shape="rect" id="node2" href="$animaRandomInitializer_8h.html" title="animaRandomInitializer.h" alt="" coords="257,80,423,107"/>
-<area shape="rect" id="node8" href="$animaGaussianREMEstimator_8h.html" title="animaGaussianREMEstimator.h" alt="" coords="487,80,689,107"/>
-<area shape="rect" id="node13" href="$animaClassificationStrategy_8hxx.html" title="animaClassificationStrategy.hxx" alt="" coords="785,80,988,107"/>
-<area shape="rect" id="node4" href="$animaModelInitializer_8h.html" title="animaModelInitializer.h" alt="" coords="38,163,191,189"/>
-<area shape="rect" id="node9" href="$animaGaussianEMEstimator_8h.html" title="animaGaussianEMEstimator.h" alt="" coords="570,163,763,189"/>
-<area shape="rect" id="node11" href="$animaGaussianREMEstimator_8hxx.html" title="animaGaussianREMEstimator.hxx" alt="" coords="787,163,1001,189"/>
-<area shape="rect" id="node10" href="$animaGaussianEMEstimator_8hxx.html" title="animaGaussianEMEstimator.hxx" alt="" coords="564,245,769,272"/>
+<area shape="rect" id="node2" href="$animaRandomInitializer_8h.html" title="animaRandomInitializer.h" alt="" coords="258,79,429,104"/>
+<area shape="rect" id="node8" href="$animaGaussianREMEstimator_8h.html" title="animaGaussianREMEstimator.h" alt="" coords="491,79,701,104"/>
+<area shape="rect" id="node13" href="$animaClassificationStrategy_8hxx.html" title="animaClassificationStrategy.hxx" alt="" coords="797,79,1006,104"/>
+<area shape="rect" id="node4" href="$animaModelInitializer_8h.html" title="animaModelInitializer.h" alt="" coords="40,159,197,184"/>
+<area shape="rect" id="node9" href="$animaGaussianEMEstimator_8h.html" title="animaGaussianEMEstimator.h" alt="" coords="576,159,776,184"/>
+<area shape="rect" id="node11" href="$animaGaussianREMEstimator_8hxx.html" title="animaGaussianREMEstimator.hxx" alt="" coords="800,159,1024,184"/>
+<area shape="rect" id="node10" href="$animaGaussianEMEstimator_8hxx.html" title="animaGaussianEMEstimator.hxx" alt="" coords="569,239,783,264"/>
 </map>

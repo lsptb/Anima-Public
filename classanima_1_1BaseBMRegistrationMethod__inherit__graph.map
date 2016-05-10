@@ -1,6 +1,6 @@
 <map id="anima::BaseBMRegistrationMethod&lt; TInputImageType &gt;" name="anima::BaseBMRegistrationMethod&lt; TInputImageType &gt;">
-<area shape="rect" id="node3" href="$classanima_1_1AsymmetricBMRegistrationMethod.html" title="anima::AsymmetricBMRegistration\lMethod\&lt; TInputImageType \&gt;" alt="" coords="416,5,635,46"/>
-<area shape="rect" id="node4" href="$classanima_1_1DistortionCorrectionBMRegistrationMethod.html" title="anima::DistortionCorrection\lBMRegistrationMethod\&lt; TInputImage\lType \&gt;" alt="" coords="407,69,644,125"/>
-<area shape="rect" id="node5" href="$classanima_1_1KissingSymmetricBMRegistrationMethod.html" title="anima::KissingSymmetricBMRegistration\lMethod\&lt; TInputImageType \&gt;" alt="" coords="398,149,653,190"/>
-<area shape="rect" id="node6" href="$classanima_1_1SymmetricBMRegistrationMethod.html" title="anima::SymmetricBMRegistration\lMethod\&lt; TInputImageType \&gt;" alt="" coords="419,214,632,255"/>
+<area shape="rect" id="node3" href="$classanima_1_1AsymmetricBMRegistrationMethod.html" title="anima::AsymmetricBMRegistration\lMethod\&lt; TInputImageType \&gt;" alt="" coords="420,5,646,44"/>
+<area shape="rect" id="node4" href="$classanima_1_1DistortionCorrectionBMRegistrationMethod.html" title="anima::DistortionCorrection\lBMRegistrationMethod\&lt; TInputImage\lType \&gt;" alt="" coords="411,68,654,120"/>
+<area shape="rect" id="node5" href="$classanima_1_1KissingSymmetricBMRegistrationMethod.html" title="anima::KissingSymmetricBMRegistration\lMethod\&lt; TInputImageType \&gt;" alt="" coords="402,144,664,183"/>
+<area shape="rect" id="node6" href="$classanima_1_1SymmetricBMRegistrationMethod.html" title="anima::SymmetricBMRegistration\lMethod\&lt; TInputImageType \&gt;" alt="" coords="423,207,642,245"/>
 </map>

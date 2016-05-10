@@ -1,7 +1,7 @@
 <map id="anima::BaseTransformAgregator&lt; NDimensions &gt;" name="anima::BaseTransformAgregator&lt; NDimensions &gt;">
-<area shape="rect" id="node2" href="$classanima_1_1BalooSVFTransformAgregator.html" title="anima::BalooSVFTransform\lAgregator\&lt; NDimensions \&gt;" alt="" coords="279,5,457,46"/>
-<area shape="rect" id="node3" href="$classanima_1_1DenseSVFTransformAgregator.html" title="anima::DenseSVFTransform\lAgregator\&lt; NDimensions \&gt;" alt="" coords="277,70,459,111"/>
-<area shape="rect" id="node4" href="$classanima_1_1LSWTransformAgregator.html" title="anima::LSWTransformAgregator\l\&lt; NDimensions \&gt;" alt="" coords="265,135,471,177"/>
-<area shape="rect" id="node5" href="$classanima_1_1LTSWTransformAgregator.html" title="anima::LTSWTransformAgregator\l\&lt; NDimensions \&gt;" alt="" coords="261,201,475,242"/>
-<area shape="rect" id="node6" href="$classanima_1_1MEstTransformAgregator.html" title="anima::MEstTransformAgregator\l\&lt; NDimensions \&gt;" alt="" coords="265,266,471,307"/>
+<area shape="rect" id="node2" href="$classanima_1_1BalooSVFTransformAgregator.html" title="anima::BalooSVFTransform\lAgregator\&lt; NDimensions \&gt;" alt="" coords="285,5,470,44"/>
+<area shape="rect" id="node3" href="$classanima_1_1DenseSVFTransformAgregator.html" title="anima::DenseSVFTransform\lAgregator\&lt; NDimensions \&gt;" alt="" coords="283,68,472,107"/>
+<area shape="rect" id="node4" href="$classanima_1_1LSWTransformAgregator.html" title="anima::LSWTransformAgregator\l\&lt; NDimensions \&gt;" alt="" coords="271,131,484,169"/>
+<area shape="rect" id="node5" href="$classanima_1_1LTSWTransformAgregator.html" title="anima::LTSWTransformAgregator\l\&lt; NDimensions \&gt;" alt="" coords="268,193,488,232"/>
+<area shape="rect" id="node6" href="$classanima_1_1MEstTransformAgregator.html" title="anima::MEstTransformAgregator\l\&lt; NDimensions \&gt;" alt="" coords="270,256,485,295"/>
 </map>

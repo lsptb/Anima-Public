@@ -1,3 +1,4 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structanima_1_1MatrixLoggerFilter_1_1ThreadedLogData.html" title="anima::MatrixLoggerFilter\l\&lt; TInputScalarType, TOutputScalar\lType, NDimensions, NDegreesOfFreedom\l \&gt;::ThreadedLogData" alt="" coords="6,5,266,75"/>
+<area shape="rect" id="node1" href="$classanima_1_1NonLocalPatchBaseSearcher.html" title="anima::NonLocalPatchBase\lSearcher\&lt; ImageType \&gt;" alt="" coords="5,12,191,51"/>
+<area shape="rect" id="node2" href="$classanima_1_1NonLocalMeansPatchSearcher.html" title="anima::NonLocalMeansPatch\lSearcher\&lt; ImageType, DataImage\lType \&gt;" alt="" coords="239,5,465,57"/>
 </map>

@@ -1,10 +1,10 @@
 <map id="animaNewuoaOptimizer.h" name="animaNewuoaOptimizer.h">
-<area shape="rect" id="node2" href="$animaODFProbabilisticTractographyImageFilter_8cxx.html" title="animaODFProbabilisticTractography\lImageFilter.cxx" alt="" coords="5,81,235,122"/>
-<area shape="rect" id="node3" href="$animaNewuoaOptimizer_8cxx.html" title="animaNewuoaOptimizer.cxx" alt="" coords="259,88,439,115"/>
-<area shape="rect" id="node4" href="$animaPyramidalSymmetryConstrainedRegistrationBridge_8hxx.html" title="animaPyramidalSymmetryConstrained\lRegistrationBridge.hxx" alt="" coords="464,81,704,122"/>
-<area shape="rect" id="node7" href="$animaPyramidalSymmetryBridge_8hxx.html" title="animaPyramidalSymmetryBridge.hxx" alt="" coords="729,88,959,115"/>
-<area shape="rect" id="node5" href="$animaPyramidalSymmetryConstrainedRegistrationBridge_8h.html" title="animaPyramidalSymmetryConstrained\lRegistrationBridge.h" alt="" coords="464,171,704,213"/>
-<area shape="rect" id="node6" href="$animaSymmetryConstrainedRegistration_8cxx.html" title="animaSymmetryConstrained\lRegistration.cxx" alt="" coords="493,262,675,303"/>
-<area shape="rect" id="node8" href="$animaPyramidalSymmetryBridge_8h.html" title="animaPyramidalSymmetryBridge.h" alt="" coords="735,179,953,205"/>
-<area shape="rect" id="node9" href="$animaSymmetryPlane_8cxx.html" title="animaSymmetryPlane.cxx" alt="" coords="759,269,929,296"/>
+<area shape="rect" id="node2" href="$animaODFProbabilisticTractographyImageFilter_8cxx.html" title="animaODFProbabilisticTractography\lImageFilter.cxx" alt="" coords="5,79,241,117"/>
+<area shape="rect" id="node3" href="$animaNewuoaOptimizer_8cxx.html" title="animaNewuoaOptimizer.cxx" alt="" coords="265,85,451,111"/>
+<area shape="rect" id="node4" href="$animaPyramidalSymmetryConstrainedRegistrationBridge_8hxx.html" title="animaPyramidalSymmetryConstrained\lRegistrationBridge.hxx" alt="" coords="475,79,724,117"/>
+<area shape="rect" id="node7" href="$animaPyramidalSymmetryBridge_8hxx.html" title="animaPyramidalSymmetryBridge.hxx" alt="" coords="747,85,987,111"/>
+<area shape="rect" id="node5" href="$animaPyramidalSymmetryConstrainedRegistrationBridge_8h.html" title="animaPyramidalSymmetryConstrained\lRegistrationBridge.h" alt="" coords="475,165,724,204"/>
+<area shape="rect" id="node6" href="$animaSymmetryConstrainedRegistration_8cxx.html" title="animaSymmetryConstrained\lRegistration.cxx" alt="" coords="504,252,694,291"/>
+<area shape="rect" id="node8" href="$animaPyramidalSymmetryBridge_8h.html" title="animaPyramidalSymmetryBridge.h" alt="" coords="754,172,980,197"/>
+<area shape="rect" id="node9" href="$animaSymmetryPlane_8cxx.html" title="animaSymmetryPlane.cxx" alt="" coords="779,259,955,284"/>
 </map>

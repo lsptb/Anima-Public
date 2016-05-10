@@ -1,3 +1,5 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$structanima_1_1BlockMatchingInitializer_1_1pair__comparator.html" title="anima::BlockMatchingInitializer\l\&lt; PixelType, NDimensions \&gt;\l::pair_comparator" alt="" coords="5,4,205,60"/>
+<area shape="rect" id="node2" href="$classanima_1_1BobyqaOptimizer.html" title="BOBYQA Optimizer." alt="" coords="297,5,464,31"/>
+<area shape="rect" id="node3" href="$classanima_1_1NewuoaOptimizer.html" title="Newuoa Optimizer." alt="" coords="295,55,466,80"/>
+<area shape="rect" id="node4" href="$classanima_1_1VoxelExhaustiveOptimizer.html" title="anima::VoxelExhaustiveOptimizer" alt="" coords="271,104,491,129"/>
 </map>

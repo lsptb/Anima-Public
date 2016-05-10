@@ -1,4 +1,5 @@
-<map id="anima::OrientedModelBaseResampleImageFilter&lt; TInputScalarType, Dimension, TInterpolatorPrecisionType &gt;" name="anima::OrientedModelBaseResampleImageFilter&lt; TInputScalarType, Dimension, TInterpolatorPrecisionType &gt;">
-<area shape="rect" id="node3" href="$classanima_1_1FiniteStrainODFResampleImageFilter.html" title="anima::FiniteStrainODFResample\lImageFilter\&lt; TInputScalarType,\l Dimension, TInterpolatorPrecisionType \&gt;" alt="" coords="638,5,895,61"/>
-<area shape="rect" id="node4" href="$classanima_1_1FiniteStrainTensorResampleImageFilter.html" title="anima::FiniteStrainTensor\lResampleImageFilter\&lt; TInputScalar\lType, Dimension, TInterpolatorPrecisionType \&gt;" alt="" coords="622,85,911,141"/>
+<map id="anima::OrientedModelBaseResampleImageFilter&lt; TImageType, TInterpolatorPrecisionType &gt;" name="anima::OrientedModelBaseResampleImageFilter&lt; TImageType, TInterpolatorPrecisionType &gt;">
+<area shape="rect" id="node3" href="$classanima_1_1ODFResampleImageFilter.html" title="anima::ODFResampleImageFilter\l\&lt; TImageType, TInterpolatorPrecision\lType \&gt;" alt="" coords="538,5,782,57"/>
+<area shape="rect" id="node4" href="$classanima_1_1TensorResampleImageFilter.html" title="anima::TensorResampleImage\lFilter\&lt; TImageType, TInterpolator\lPrecisionType \&gt;" alt="" coords="551,81,770,133"/>
+<area shape="rect" id="node2" href="$classitk_1_1ImageToImageFilter.html" title="itk::ImageToImageFilter\l\&lt; TImageType, TImageType \&gt;" alt="" coords="5,51,205,89"/>
 </map>

@@ -1,13 +1,11 @@
 <map id="animaLowMemLocalPatchCovarianceDistance.cxx" name="animaLowMemLocalPatchCovarianceDistance.cxx">
-<area shape="rect" id="node4" href="$animaLowMemLocalPatchCovarianceDistanceBridge_8h.html" title="animaLowMemLocalPatchCovariance\lDistanceBridge.h" alt="" coords="1134,97,1372,138"/>
-<area shape="rect" id="node5" href="$animaImageDataSplitter_8h.html" title="animaImageDataSplitter.h" alt="" coords="1752,285,1922,312"/>
-<area shape="rect" id="node16" href="$animaLocalPatchCovarianceDistanceImageFilter_8h.html" title="animaLocalPatchCovariance\lDistanceImageFilter.h" alt="" coords="1160,187,1346,229"/>
-<area shape="rect" id="node10" href="$animaImageDataSplitter_8hxx.html" title="animaImageDataSplitter.hxx" alt="" coords="2074,376,2256,403"/>
-<area shape="rect" id="node17" href="$animaMaskedImageToImageFilter_8h.html" title="animaMaskedImageToImageFilter.h" alt="" coords="575,285,802,312"/>
-<area shape="rect" id="node26" href="$animaLocalPatchCovarianceDistanceImageFilter_8hxx.html" title="animaLocalPatchCovariance\lDistanceImageFilter.hxx" alt="" coords="1160,278,1346,319"/>
-<area shape="rect" id="node19" href="$animaImageRegionSplitterMask_8h.html" title="animaImageRegionSplitter\lMask.h" alt="" coords="178,369,352,410"/>
-<area shape="rect" id="node25" href="$animaMaskedImageToImageFilter_8hxx.html" title="animaMaskedImageToImageFilter.hxx" alt="" coords="569,376,809,403"/>
-<area shape="rect" id="node22" href="$animaImageRegionSplitterMask_8hxx.html" title="animaImageRegionSplitter\lMask.hxx" alt="" coords="178,459,352,501"/>
-<area shape="rect" id="node29" href="$animaVectorImagePatchStatistics_8h.html" title="animaVectorImagePatchStatistics.h" alt="" coords="1369,376,1596,403"/>
-<area shape="rect" id="node30" href="$animaVectorImagePatchStatistics_8hxx.html" title="animaVectorImagePatchStatistics.hxx" alt="" coords="1352,467,1590,493"/>
+<area shape="rect" id="node4" href="$animaLowMemLocalPatchCovarianceDistanceBridge_8h.html" title="animaLowMemLocalPatchCovariance\lDistanceBridge.h" alt="" coords="1435,92,1680,131"/>
+<area shape="rect" id="node5" href="$animaImageDataSplitter_8h.html" title="animaImageDataSplitter.h" alt="" coords="1834,272,2008,297"/>
+<area shape="rect" id="node16" href="$animaLocalPatchCovarianceDistanceImageFilter_8h.html" title="animaLocalPatchCovariance\lDistanceImageFilter.h" alt="" coords="1194,179,1385,217"/>
+<area shape="rect" id="node10" href="$animaImageDataSplitter_8hxx.html" title="animaImageDataSplitter.hxx" alt="" coords="2012,359,2200,384"/>
+<area shape="rect" id="node17" href="$animaMaskedImageToImageFilter_8h.html" title="animaMaskedImageToImageFilter.h" alt="" coords="1087,272,1320,297"/>
+<area shape="rect" id="node25" href="$animaLocalPatchCovarianceDistanceImageFilter_8hxx.html" title="animaLocalPatchCovariance\lDistanceImageFilter.hxx" alt="" coords="258,265,449,304"/>
+<area shape="rect" id="node23" href="$animaMaskedImageToImageFilter_8hxx.html" title="animaMaskedImageToImageFilter.hxx" alt="" coords="1411,359,1657,384"/>
+<area shape="rect" id="node28" href="$animaVectorImagePatchStatistics_8h.html" title="animaVectorImagePatchStatistics.h" alt="" coords="238,359,469,384"/>
+<area shape="rect" id="node29" href="$animaVectorImagePatchStatistics_8hxx.html" title="animaVectorImagePatchStatistics.hxx" alt="" coords="231,439,475,464"/>
 </map>

@@ -1,7 +1,7 @@
 <map id="animaEPGSignalSimulator.h" name="animaEPGSignalSimulator.h">
-<area shape="rect" id="node2" href="$animaT2EPGRelaxometryCostFunction_8cxx.html" title="animaT2EPGRelaxometryCost\lFunction.cxx" alt="" coords="5,81,200,122"/>
-<area shape="rect" id="node3" href="$animaEPGSignalSimulator_8cxx.html" title="animaEPGSignalSimulator.cxx" alt="" coords="225,88,423,115"/>
-<area shape="rect" id="node4" href="$animaStimulatedSpinEchoImageFilter_8hxx.html" title="animaStimulatedSpinEchoImage\lFilter.hxx" alt="" coords="447,81,656,122"/>
-<area shape="rect" id="node5" href="$animaStimulatedSpinEchoImageFilter_8h.html" title="animaStimulatedSpinEchoImage\lFilter.h" alt="" coords="447,171,656,213"/>
-<area shape="rect" id="node6" href="$animaStimulatedSpinEchoSimulator_8cxx.html" title="animaStimulatedSpinEchoSimulator.cxx" alt="" coords="427,261,677,288"/>
+<area shape="rect" id="node2" href="$animaT2EPGRelaxometryCostFunction_8cxx.html" title="animaT2EPGRelaxometryCost\lFunction.cxx" alt="" coords="5,79,209,117"/>
+<area shape="rect" id="node3" href="$animaEPGSignalSimulator_8cxx.html" title="animaEPGSignalSimulator.cxx" alt="" coords="233,85,435,111"/>
+<area shape="rect" id="node4" href="$animaStimulatedSpinEchoImageFilter_8hxx.html" title="animaStimulatedSpinEchoImage\lFilter.hxx" alt="" coords="458,79,673,117"/>
+<area shape="rect" id="node5" href="$animaStimulatedSpinEchoImageFilter_8h.html" title="animaStimulatedSpinEchoImage\lFilter.h" alt="" coords="458,165,673,204"/>
+<area shape="rect" id="node6" href="$animaStimulatedSpinEchoSimulator_8cxx.html" title="animaStimulatedSpinEchoSimulator.cxx" alt="" coords="437,252,694,277"/>
 </map>

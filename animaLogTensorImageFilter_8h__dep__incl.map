@@ -1,8 +1,8 @@
 <map id="animaLogTensorImageFilter.h" name="animaLogTensorImageFilter.h">
-<area shape="rect" id="node2" href="$animaDTITractography_8cxx.html" title="animaDTITractography.cxx" alt="" coords="5,88,179,115"/>
-<area shape="rect" id="node3" href="$animaLogTensors_8cxx.html" title="animaLogTensors.cxx" alt="" coords="203,88,348,115"/>
-<area shape="rect" id="node4" href="$animaPyramidalDenseTensorSVFMatchingBridge_8hxx.html" title="animaPyramidalDenseTensor\lSVFMatchingBridge.hxx" alt="" coords="373,81,563,122"/>
-<area shape="rect" id="node7" href="$animaTensorApplyTransformSerie_8cxx.html" title="animaTensorApplyTransform\lSerie.cxx" alt="" coords="587,81,773,122"/>
-<area shape="rect" id="node5" href="$animaPyramidalDenseTensorSVFMatchingBridge_8h.html" title="animaPyramidalDenseTensor\lSVFMatchingBridge.h" alt="" coords="373,171,563,213"/>
-<area shape="rect" id="node6" href="$animaDenseTensorSVFBMRegistration_8cxx.html" title="animaDenseTensorSVFBMRegistration.cxx" alt="" coords="335,261,601,288"/>
+<area shape="rect" id="node2" href="$animaDTITractography_8cxx.html" title="animaDTITractography.cxx" alt="" coords="5,85,185,111"/>
+<area shape="rect" id="node3" href="$animaLogTensors_8cxx.html" title="animaLogTensors.cxx" alt="" coords="209,85,360,111"/>
+<area shape="rect" id="node4" href="$animaPyramidalDenseTensorSVFMatchingBridge_8hxx.html" title="animaPyramidalDenseTensor\lSVFMatchingBridge.hxx" alt="" coords="384,79,580,117"/>
+<area shape="rect" id="node7" href="$animaTensorApplyTransformSerie_8cxx.html" title="animaTensorApplyTransform\lSerie.cxx" alt="" coords="604,79,795,117"/>
+<area shape="rect" id="node5" href="$animaPyramidalDenseTensorSVFMatchingBridge_8h.html" title="animaPyramidalDenseTensor\lSVFMatchingBridge.h" alt="" coords="384,165,580,204"/>
+<area shape="rect" id="node6" href="$animaDenseTensorSVFBMRegistration_8cxx.html" title="animaDenseTensorSVFBMRegistration.cxx" alt="" coords="343,252,620,277"/>
 </map>

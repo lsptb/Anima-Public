@@ -1,7 +1,7 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" href="$classanima_1_1BaseBlockMatcher.html" title="anima::BaseBlockMatcher\l\&lt; TInputImageType \&gt;" alt="" coords="6,70,178,111"/>
-<area shape="rect" id="node2" href="$classanima_1_1BaseAffineBlockMatcher.html" title="anima::BaseAffineBlockMatcher\l\&lt; TInputImageType \&gt;" alt="" coords="239,37,441,78"/>
-<area shape="rect" id="node5" href="$classanima_1_1DistortionCorrectionBlockMatcher.html" title="anima::DistortionCorrection\lBlockMatcher\&lt; TInputImageType \&gt;" alt="" coords="227,102,453,143"/>
-<area shape="rect" id="node3" href="$classanima_1_1AnatomicalBlockMatcher.html" title="anima::AnatomicalBlockMatcher\l\&lt; TInputImageType \&gt;" alt="" coords="501,5,709,46"/>
-<area shape="rect" id="node4" href="$classanima_1_1TensorBlockMatcher.html" title="anima::TensorBlockMatcher\l\&lt; TInputImageType \&gt;" alt="" coords="514,70,697,111"/>
+<area shape="rect" id="node1" href="$classanima_1_1BaseBlockMatcher.html" title="anima::BaseBlockMatcher\l\&lt; TInputImageType \&gt;" alt="" coords="5,68,182,107"/>
+<area shape="rect" id="node2" href="$classanima_1_1BaseAffineBlockMatcher.html" title="anima::BaseAffineBlockMatcher\l\&lt; TInputImageType \&gt;" alt="" coords="239,36,449,75"/>
+<area shape="rect" id="node5" href="$classanima_1_1DistortionCorrectionBlockMatcher.html" title="anima::DistortionCorrection\lBlockMatcher\&lt; TInputImageType \&gt;" alt="" coords="230,99,458,137"/>
+<area shape="rect" id="node3" href="$classanima_1_1AnatomicalBlockMatcher.html" title="anima::AnatomicalBlockMatcher\l\&lt; TInputImageType \&gt;" alt="" coords="506,5,718,44"/>
+<area shape="rect" id="node4" href="$classanima_1_1TensorBlockMatcher.html" title="anima::TensorBlockMatcher\l\&lt; TInputImageType \&gt;" alt="" coords="519,68,705,107"/>
 </map>

@@ -1,2 +1,3 @@
-<map id="anima::OrientedModelBaseResampleImageFilter&lt; TInputScalarType, Dimension, TInterpolatorPrecisionType &gt;" name="anima::OrientedModelBaseResampleImageFilter&lt; TInputScalarType, Dimension, TInterpolatorPrecisionType &gt;">
+<map id="anima::OrientedModelBaseResampleImageFilter&lt; TImageType, TInterpolatorPrecisionType &gt;" name="anima::OrientedModelBaseResampleImageFilter&lt; TImageType, TInterpolatorPrecisionType &gt;">
+<area shape="rect" id="node2" href="$classitk_1_1ImageToImageFilter.html" title="itk::ImageToImageFilter\l\&lt; TImageType, TImageType \&gt;" alt="" coords="24,5,224,44"/>
 </map>

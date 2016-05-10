@@ -1,3 +1,4 @@
 <map id="anima::T2RelaxometryEstimationImageFilter&lt; TInputImage, TOutputImage &gt;" name="anima::T2RelaxometryEstimationImageFilter&lt; TInputImage, TOutputImage &gt;">
-<area shape="rect" id="node2" href="$classanima_1_1MaskedImageToImageFilter.html" title="anima::MaskedImageToImage\lFilter\&lt; TInputImage, TOutputImage \&gt;" alt="" coords="5,97,240,138"/>
+<area shape="rect" id="node2" href="$classanima_1_1MaskedImageToImageFilter.html" title="anima::MaskedImageToImage\lFilter\&lt; TInputImage, TOutputImage \&gt;" alt="" coords="5,92,246,131"/>
+<area shape="rect" id="node3" href="$classitk_1_1ImageToImageFilter.html" title="itk::ImageToImageFilter\l\&lt; TInputImage, TOutputImage \&gt;" alt="" coords="20,5,231,44"/>
 </map>

@@ -1,11 +1,11 @@
 <map id="animaMatrixOperations.hxx" name="animaMatrixOperations.hxx">
-<area shape="rect" id="node2" href="$animaMatrixOperations_8h.html" title="animaMatrixOperations.h" alt="" coords="574,88,737,115"/>
-<area shape="rect" id="node4" href="$animaVectorOperations_8h.html" title="animaVectorOperations.h" alt="" coords="762,88,928,115"/>
-<area shape="rect" id="node17" href="$animaLinearTransformEstimationTools_8h.html" title="animaLinearTransformEstimation\lTools.h" alt="" coords="1104,81,1313,122"/>
-<area shape="rect" id="node11" href="$animaVectorOperations_8hxx.html" title="animaVectorOperations.hxx" alt="" coords="244,179,423,205"/>
-<area shape="rect" id="node13" href="$animaLogarithmFunctions_8h.html" title="animaLogarithmFunctions.h" alt="" coords="5,261,184,288"/>
-<area shape="rect" id="node14" href="$animaLogarithmFunctions_8hxx.html" title="animaLogarithmFunctions.hxx" alt="" coords="79,344,271,371"/>
-<area shape="rect" id="node20" href="$animaLinearTransformEstimationTools_8hxx.html" title="animaLinearTransformEstimation\lTools.hxx" alt="" coords="1461,171,1671,213"/>
-<area shape="rect" id="node21" href="$animaMatrixLogExp_8h.html" title="animaMatrixLogExp.h" alt="" coords="1495,261,1639,288"/>
-<area shape="rect" id="node27" href="$animaMatrixLogExp_8hxx.html" title="animaMatrixLogExp.hxx" alt="" coords="1221,344,1376,371"/>
+<area shape="rect" id="node2" href="$animaMatrixOperations_8h.html" title="animaMatrixOperations.h" alt="" coords="589,85,759,111"/>
+<area shape="rect" id="node4" href="$animaVectorOperations_8h.html" title="animaVectorOperations.h" alt="" coords="783,85,955,111"/>
+<area shape="rect" id="node17" href="$animaLinearTransformEstimationTools_8h.html" title="animaLinearTransformEstimation\lTools.h" alt="" coords="1128,79,1346,117"/>
+<area shape="rect" id="node11" href="$animaVectorOperations_8hxx.html" title="animaVectorOperations.hxx" alt="" coords="251,172,436,197"/>
+<area shape="rect" id="node13" href="$animaLogarithmFunctions_8h.html" title="animaLogarithmFunctions.h" alt="" coords="5,252,191,277"/>
+<area shape="rect" id="node14" href="$animaLogarithmFunctions_8hxx.html" title="animaLogarithmFunctions.hxx" alt="" coords="81,332,281,357"/>
+<area shape="rect" id="node20" href="$animaLinearTransformEstimationTools_8hxx.html" title="animaLinearTransformEstimation\lTools.hxx" alt="" coords="1494,165,1711,204"/>
+<area shape="rect" id="node21" href="$animaMatrixLogExp_8h.html" title="animaMatrixLogExp.h" alt="" coords="1527,252,1677,277"/>
+<area shape="rect" id="node27" href="$animaMatrixLogExp_8hxx.html" title="animaMatrixLogExp.hxx" alt="" coords="1246,332,1409,357"/>
 </map>

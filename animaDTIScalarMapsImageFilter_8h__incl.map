@@ -1,5 +1,15 @@
 <map id="animaDTIScalarMapsImageFilter.h" name="animaDTIScalarMapsImageFilter.h">
-<area shape="rect" id="node6" href="$animaDTIScalarMapsImageFilter_8hxx.html" title="animaDTIScalarMapsImageFilter.hxx" alt="" coords="902,80,1135,107"/>
-<area shape="rect" id="node16" href="$animaBaseTensorTools_8h.html" title="animaBaseTensorTools.h" alt="" coords="1777,163,1943,189"/>
-<area shape="rect" id="node21" href="$animaBaseTensorTools_8hxx.html" title="animaBaseTensorTools.hxx" alt="" coords="1868,253,2047,280"/>
+<area shape="rect" id="node6" href="$animaDTIScalarMapsImageFilter_8hxx.html" title="animaDTIScalarMapsImageFilter.hxx" alt="" coords="1130,79,1370,104"/>
+<area shape="rect" id="node16" href="$animaBaseTensorTools_8h.html" title="animaBaseTensorTools.h" alt="" coords="1629,159,1800,184"/>
+<area shape="rect" id="node21" href="$animaBaseTensorTools_8hxx.html" title="animaBaseTensorTools.hxx" alt="" coords="1623,239,1806,264"/>
+<area shape="rect" id="node22" href="$animaVectorOperations_8h.html" title="animaVectorOperations.h" alt="" coords="1629,465,1800,491"/>
+<area shape="rect" id="node33" href="$animaMatrixOperations_8h.html" title="animaMatrixOperations.h" alt="" coords="1629,312,1800,337"/>
+<area shape="rect" id="node28" href="$animaVectorOperations_8hxx.html" title="animaVectorOperations.hxx" alt="" coords="1814,552,1999,577"/>
+<area shape="rect" id="node30" href="$animaLogarithmFunctions_8h.html" title="animaLogarithmFunctions.h" alt="" coords="1814,632,1999,657"/>
+<area shape="rect" id="node31" href="$animaLogarithmFunctions_8hxx.html" title="animaLogarithmFunctions.hxx" alt="" coords="1687,712,1886,737"/>
+<area shape="rect" id="node34" href="$animaMatrixOperations_8hxx.html" title="animaMatrixOperations.hxx" alt="" coords="1623,385,1806,411"/>
+<area shape="rect" id="node35" href="$animaLinearTransformEstimationTools_8h.html" title="animaLinearTransformEstimation\lTools.h" alt="" coords="1194,459,1411,497"/>
+<area shape="rect" id="node37" href="$animaLinearTransformEstimationTools_8hxx.html" title="animaLinearTransformEstimation\lTools.hxx" alt="" coords="845,545,1062,584"/>
+<area shape="rect" id="node38" href="$animaMatrixLogExp_8h.html" title="animaMatrixLogExp.h" alt="" coords="1045,632,1195,657"/>
+<area shape="rect" id="node42" href="$animaMatrixLogExp_8hxx.html" title="animaMatrixLogExp.hxx" alt="" coords="1011,712,1175,737"/>
 </map>

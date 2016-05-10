@@ -1,9 +1,7 @@
 <map id="animaT2EPGRelaxometryEstimationImageFilter.hxx" name="animaT2EPGRelaxometryEstimationImageFilter.hxx">
-<area shape="rect" id="node2" href="$animaT2EPGRelaxometryEstimationImageFilter_8h.html" title="animaT2EPGRelaxometryEstimation\lImageFilter.h" alt="" coords="973,97,1203,138"/>
-<area shape="rect" id="node17" href="$animaT2EPGRelaxometryCostFunction_8h.html" title="animaT2EPGRelaxometryCost\lFunction.h" alt="" coords="1490,97,1685,138"/>
-<area shape="rect" id="node20" href="$animaBobyqaOptimizer_8h.html" title="animaBobyqaOptimizer.h" alt="" coords="1789,104,1953,131"/>
-<area shape="rect" id="node3" href="$animaMaskedImageToImageFilter_8h.html" title="animaMaskedImageToImageFilter.h" alt="" coords="647,195,875,221"/>
-<area shape="rect" id="node6" href="$animaImageRegionSplitterMask_8h.html" title="animaImageRegionSplitter\lMask.h" alt="" coords="163,278,337,319"/>
-<area shape="rect" id="node13" href="$animaMaskedImageToImageFilter_8hxx.html" title="animaMaskedImageToImageFilter.hxx" alt="" coords="988,285,1228,312"/>
-<area shape="rect" id="node9" href="$animaImageRegionSplitterMask_8hxx.html" title="animaImageRegionSplitter\lMask.hxx" alt="" coords="303,369,477,410"/>
+<area shape="rect" id="node2" href="$animaT2EPGRelaxometryEstimationImageFilter_8h.html" title="animaT2EPGRelaxometryEstimation\lImageFilter.h" alt="" coords="977,92,1215,131"/>
+<area shape="rect" id="node15" href="$animaT2EPGRelaxometryCostFunction_8h.html" title="animaT2EPGRelaxometryCost\lFunction.h" alt="" coords="1480,92,1683,131"/>
+<area shape="rect" id="node18" href="$animaBobyqaOptimizer_8h.html" title="animaBobyqaOptimizer.h" alt="" coords="1787,99,1957,124"/>
+<area shape="rect" id="node3" href="$animaMaskedImageToImageFilter_8h.html" title="animaMaskedImageToImageFilter.h" alt="" coords="587,185,819,211"/>
+<area shape="rect" id="node10" href="$animaMaskedImageToImageFilter_8hxx.html" title="animaMaskedImageToImageFilter.hxx" alt="" coords="969,265,1215,291"/>
 </map>

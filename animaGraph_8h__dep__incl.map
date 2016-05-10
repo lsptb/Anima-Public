@@ -1,12 +1,12 @@
 <map id="animaGraph.h" name="animaGraph.h">
-<area shape="rect" id="node2" href="$animaNLinksFilter_8h.html" title="animaNLinksFilter.h" alt="" coords="233,80,367,107"/>
-<area shape="rect" id="node3" href="$animaGraph3DFilter_8h.html" title="animaGraph3DFilter.h" alt="" coords="56,155,203,181"/>
-<area shape="rect" id="node11" href="$animaNLinksFilter_8hxx.html" title="animaNLinksFilter.hxx" alt="" coords="227,155,373,181"/>
-<area shape="rect" id="node4" href="$animaGraph3DFilter_8hxx.html" title="animaGraph3DFilter.hxx" alt="" coords="50,229,208,256"/>
-<area shape="rect" id="node5" href="$animaGraphCutFilter_8h.html" title="animaGraphCutFilter.h" alt="" coords="233,229,383,256"/>
-<area shape="rect" id="node6" href="$animaGraphCutFilter_8hxx.html" title="animaGraphCutFilter.hxx" alt="" coords="112,312,275,339"/>
-<area shape="rect" id="node7" href="$animaGcStremMsLesionsSegmentationFilter_8h.html" title="animaGcStremMsLesionsSegmentation\lFilter.h" alt="" coords="299,305,548,346"/>
-<area shape="rect" id="node10" href="$animaGraphCut_8cxx.html" title="animaGraphCut.cxx" alt="" coords="573,312,707,339"/>
-<area shape="rect" id="node8" href="$animaGcStremMsLesionsSegmentation_8cxx.html" title="animaGcStremMsLesionsSegmentation.cxx" alt="" coords="5,403,275,429"/>
-<area shape="rect" id="node9" href="$animaGcStremMsLesionsSegmentationFilter_8hxx.html" title="animaGcStremMsLesionsSegmentation\lFilter.hxx" alt="" coords="299,395,548,437"/>
+<area shape="rect" id="node2" href="$animaNLinksFilter_8h.html" title="animaNLinksFilter.h" alt="" coords="241,79,380,104"/>
+<area shape="rect" id="node3" href="$animaGraph3DFilter_8h.html" title="animaGraph3DFilter.h" alt="" coords="59,152,211,177"/>
+<area shape="rect" id="node11" href="$animaNLinksFilter_8hxx.html" title="animaNLinksFilter.hxx" alt="" coords="235,152,387,177"/>
+<area shape="rect" id="node4" href="$animaGraph3DFilter_8hxx.html" title="animaGraph3DFilter.hxx" alt="" coords="52,225,217,251"/>
+<area shape="rect" id="node5" href="$animaGraphCutFilter_8h.html" title="animaGraphCutFilter.h" alt="" coords="241,225,396,251"/>
+<area shape="rect" id="node6" href="$animaGraphCutFilter_8hxx.html" title="animaGraphCutFilter.hxx" alt="" coords="117,305,286,331"/>
+<area shape="rect" id="node7" href="$animaGcStremMsLesionsSegmentationFilter_8h.html" title="animaGcStremMsLesionsSegmentation\lFilter.h" alt="" coords="309,299,565,337"/>
+<area shape="rect" id="node10" href="$animaGraphCut_8cxx.html" title="animaGraphCut.cxx" alt="" coords="589,305,728,331"/>
+<area shape="rect" id="node8" href="$animaGcStremMsLesionsSegmentation_8cxx.html" title="animaGcStremMsLesionsSegmentation.cxx" alt="" coords="5,392,285,417"/>
+<area shape="rect" id="node9" href="$animaGcStremMsLesionsSegmentationFilter_8hxx.html" title="animaGcStremMsLesionsSegmentation\lFilter.hxx" alt="" coords="309,385,565,424"/>
 </map>

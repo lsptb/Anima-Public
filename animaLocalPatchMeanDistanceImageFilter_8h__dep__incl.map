@@ -1,7 +1,7 @@
 <map id="animaLocalPatchMeanDistanceImageFilter.h" name="animaLocalPatchMeanDistanceImageFilter.h">
-<area shape="rect" id="node2" href="$animaLocalPatchMeanDistanceImageFilter_8hxx.html" title="animaLocalPatchMeanDistance\lImageFilter.hxx" alt="" coords="5,97,208,138"/>
-<area shape="rect" id="node3" href="$animaLocalPatchMeanDistance_8cxx.html" title="animaLocalPatchMeanDistance.cxx" alt="" coords="233,104,460,131"/>
-<area shape="rect" id="node4" href="$animaLowMemLocalPatchMeanDistanceBridge_8h.html" title="animaLowMemLocalPatchMean\lDistanceBridge.h" alt="" coords="485,97,691,138"/>
-<area shape="rect" id="node5" href="$animaLowMemLocalPatchMeanDistance_8cxx.html" title="animaLowMemLocalPatchMean\lDistance.cxx" alt="" coords="369,187,575,229"/>
-<area shape="rect" id="node6" href="$animaLowMemLocalPatchMeanDistanceBridge_8cxx.html" title="animaLowMemLocalPatchMean\lDistanceBridge.cxx" alt="" coords="599,187,805,229"/>
+<area shape="rect" id="node2" href="$animaLocalPatchMeanDistanceImageFilter_8hxx.html" title="animaLocalPatchMeanDistance\lImageFilter.hxx" alt="" coords="5,92,214,131"/>
+<area shape="rect" id="node3" href="$animaLocalPatchMeanDistance_8cxx.html" title="animaLocalPatchMeanDistance.cxx" alt="" coords="239,99,471,124"/>
+<area shape="rect" id="node4" href="$animaLowMemLocalPatchMeanDistanceBridge_8h.html" title="animaLowMemLocalPatchMean\lDistanceBridge.h" alt="" coords="495,92,706,131"/>
+<area shape="rect" id="node5" href="$animaLowMemLocalPatchMeanDistance_8cxx.html" title="animaLowMemLocalPatchMean\lDistance.cxx" alt="" coords="378,179,589,217"/>
+<area shape="rect" id="node6" href="$animaLowMemLocalPatchMeanDistanceBridge_8cxx.html" title="animaLowMemLocalPatchMean\lDistanceBridge.cxx" alt="" coords="612,179,823,217"/>
 </map>

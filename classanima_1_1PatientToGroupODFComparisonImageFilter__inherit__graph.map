@@ -1,4 +1,5 @@
 <map id="anima::PatientToGroupODFComparisonImageFilter&lt; PixelScalarType &gt;" name="anima::PatientToGroupODFComparisonImageFilter&lt; PixelScalarType &gt;">
-<area shape="rect" id="node2" href="$classanima_1_1PatientToGroupComparisonImageFilter.html" title="Implements patient to group comparison as in http://dx.doi.org/10.1007/978&#45;3&#45;540&#45;85988&#45;8_116. " alt="" coords="587,19,810,61"/>
-<area shape="rect" id="node3" href="$classanima_1_1MaskedImageToImageFilter.html" title="anima::MaskedImageToImage\lFilter\&lt; itk::VectorImage\l\&lt; PixelScalarType, 3 \&gt;, itk\l::Image\&lt; PixelScalarType, 3 \&gt; \&gt;" alt="" coords="334,5,538,75"/>
+<area shape="rect" id="node2" href="$classanima_1_1PatientToGroupComparisonImageFilter.html" title="Implements patient to group comparison as in http://dx.doi.org/10.1007/978&#45;3&#45;540&#45;85988&#45;8_116." alt="" coords="599,19,828,57"/>
+<area shape="rect" id="node3" href="$classanima_1_1MaskedImageToImageFilter.html" title="anima::MaskedImageToImage\lFilter\&lt; itk::VectorImage\l\&lt; PixelScalarType, 3 \&gt;, itk\l::Image\&lt; PixelScalarType, 3 \&gt; \&gt;" alt="" coords="340,5,551,71"/>
+<area shape="rect" id="node4" href="$classitk_1_1ImageToImageFilter.html" title="itk::ImageToImageFilter\l\&lt; itk::VectorImage\&lt; PixelScalar\lType, 3 \&gt;, itk::Image\&lt; PixelScalarType, 3 \&gt; \&gt;" alt="" coords="5,12,292,64"/>
 </map>

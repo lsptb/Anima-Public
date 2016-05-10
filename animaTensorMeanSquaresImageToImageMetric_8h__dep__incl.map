@@ -1,8 +1,8 @@
 <map id="animaTensorMeanSquaresImageToImageMetric.h" name="animaTensorMeanSquaresImageToImageMetric.h">
-<area shape="rect" id="node2" href="$animaTensorBlockMatcher_8hxx.html" title="animaTensorBlockMatcher.hxx" alt="" coords="39,104,237,131"/>
-<area shape="rect" id="node7" href="$animaTensorMeanSquaresImageToImageMetric_8hxx.html" title="animaTensorMeanSquaresImage\lToImageMetric.hxx" alt="" coords="261,97,471,138"/>
-<area shape="rect" id="node3" href="$animaTensorBlockMatcher_8h.html" title="animaTensorBlockMatcher.h" alt="" coords="45,187,232,213"/>
-<area shape="rect" id="node4" href="$animaPyramidalDenseTensorSVFMatchingBridge_8hxx.html" title="animaPyramidalDenseTensor\lSVFMatchingBridge.hxx" alt="" coords="44,262,233,303"/>
-<area shape="rect" id="node5" href="$animaPyramidalDenseTensorSVFMatchingBridge_8h.html" title="animaPyramidalDenseTensor\lSVFMatchingBridge.h" alt="" coords="44,353,233,394"/>
-<area shape="rect" id="node6" href="$animaDenseTensorSVFBMRegistration_8cxx.html" title="animaDenseTensorSVFBMRegistration.cxx" alt="" coords="5,443,272,469"/>
+<area shape="rect" id="node2" href="$animaTensorBlockMatcher_8hxx.html" title="animaTensorBlockMatcher.hxx" alt="" coords="43,99,245,124"/>
+<area shape="rect" id="node7" href="$animaTensorMeanSquaresImageToImageMetric_8hxx.html" title="animaTensorMeanSquaresImage\lToImageMetric.hxx" alt="" coords="268,92,486,131"/>
+<area shape="rect" id="node3" href="$animaTensorBlockMatcher_8h.html" title="animaTensorBlockMatcher.h" alt="" coords="49,179,238,204"/>
+<area shape="rect" id="node4" href="$animaPyramidalDenseTensorSVFMatchingBridge_8hxx.html" title="animaPyramidalDenseTensor\lSVFMatchingBridge.hxx" alt="" coords="46,252,242,291"/>
+<area shape="rect" id="node5" href="$animaPyramidalDenseTensorSVFMatchingBridge_8h.html" title="animaPyramidalDenseTensor\lSVFMatchingBridge.h" alt="" coords="46,339,242,377"/>
+<area shape="rect" id="node6" href="$animaDenseTensorSVFBMRegistration_8cxx.html" title="animaDenseTensorSVFBMRegistration.cxx" alt="" coords="5,425,282,451"/>
 </map>

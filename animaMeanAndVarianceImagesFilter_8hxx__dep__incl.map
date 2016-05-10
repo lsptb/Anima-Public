@@ -1,9 +1,9 @@
 <map id="animaMeanAndVarianceImagesFilter.hxx" name="animaMeanAndVarianceImagesFilter.hxx">
-<area shape="rect" id="node2" href="$animaMeanAndVarianceImagesFilter_8h.html" title="animaMeanAndVarianceImages\lFilter.h" alt="" coords="66,97,269,138"/>
-<area shape="rect" id="node3" href="$animaNonLocalMeansImageFilter_8hxx.html" title="animaNonLocalMeansImageFilter.hxx" alt="" coords="50,187,285,213"/>
-<area shape="rect" id="node4" href="$animaNonLocalMeansImageFilter_8h.html" title="animaNonLocalMeansImageFilter.h" alt="" coords="56,261,279,288"/>
-<area shape="rect" id="node5" href="$animaNLMeans_8cxx.html" title="animaNLMeans.cxx" alt="" coords="5,344,139,371"/>
-<area shape="rect" id="node6" href="$animaNonLocalMeansTemporalImageFilter_8hxx.html" title="animaNonLocalMeansTemporal\lImageFilter.hxx" alt="" coords="163,337,365,378"/>
-<area shape="rect" id="node7" href="$animaNonLocalMeansTemporalImageFilter_8h.html" title="animaNonLocalMeansTemporal\lImageFilter.h" alt="" coords="163,427,365,469"/>
-<area shape="rect" id="node8" href="$animaNLMeansTemporal_8cxx.html" title="animaNLMeansTemporal.cxx" alt="" coords="171,517,357,544"/>
+<area shape="rect" id="node2" href="$animaMeanAndVarianceImagesFilter_8h.html" title="animaMeanAndVarianceImages\lFilter.h" alt="" coords="68,92,278,131"/>
+<area shape="rect" id="node3" href="$animaNonLocalMeansImageFilter_8hxx.html" title="animaNonLocalMeansImageFilter.hxx" alt="" coords="51,179,295,204"/>
+<area shape="rect" id="node4" href="$animaNonLocalMeansImageFilter_8h.html" title="animaNonLocalMeansImageFilter.h" alt="" coords="58,252,289,277"/>
+<area shape="rect" id="node5" href="$animaNLMeans_8cxx.html" title="animaNLMeans.cxx" alt="" coords="5,332,144,357"/>
+<area shape="rect" id="node6" href="$animaNonLocalMeansTemporalImageFilter_8hxx.html" title="animaNonLocalMeansTemporal\lImageFilter.hxx" alt="" coords="167,325,376,364"/>
+<area shape="rect" id="node7" href="$animaNonLocalMeansTemporalImageFilter_8h.html" title="animaNonLocalMeansTemporal\lImageFilter.h" alt="" coords="167,412,376,451"/>
+<area shape="rect" id="node8" href="$animaNLMeansTemporal_8cxx.html" title="animaNLMeansTemporal.cxx" alt="" coords="175,499,369,524"/>
 </map>

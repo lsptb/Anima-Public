@@ -1,12 +1,12 @@
 <map id="animaNLMeansTemporal.cxx" name="animaNLMeansTemporal.cxx">
-<area shape="rect" id="node2" href="$animaNonLocalMeansTemporalImageFilter_8h.html" title="animaNonLocalMeansTemporal\lImageFilter.h" alt="" coords="1725,81,1928,122"/>
-<area shape="rect" id="node9" href="$animaNonLocalMeansTemporalImageFilter_8hxx.html" title="animaNonLocalMeansTemporal\lImageFilter.hxx" alt="" coords="348,171,551,213"/>
-<area shape="rect" id="node10" href="$animaNonLocalMeansImageFilter_8h.html" title="animaNonLocalMeansImageFilter.h" alt="" coords="1415,261,1637,288"/>
-<area shape="rect" id="node11" href="$animaNonLocalMeansImageFilter_8hxx.html" title="animaNonLocalMeansImageFilter.hxx" alt="" coords="945,336,1180,363"/>
-<area shape="rect" id="node12" href="$animaMeanAndVarianceImagesFilter_8h.html" title="animaMeanAndVarianceImages\lFilter.h" alt="" coords="850,411,1053,453"/>
-<area shape="rect" id="node21" href="$animaNonLocalMeansPatchSearcher_8h.html" title="animaNonLocalMeansPatchSearcher.h" alt="" coords="1217,419,1463,445"/>
-<area shape="rect" id="node15" href="$animaMeanAndVarianceImagesFilter_8hxx.html" title="animaMeanAndVarianceImages\lFilter.hxx" alt="" coords="485,502,688,543"/>
-<area shape="rect" id="node22" href="$animaNonLocalPatchBaseSearcher_8h.html" title="animaNonLocalPatchBaseSearcher.h" alt="" coords="1039,509,1275,536"/>
-<area shape="rect" id="node27" href="$animaNonLocalMeansPatchSearcher_8hxx.html" title="animaNonLocalMeansPatchSearcher.hxx" alt="" coords="1350,509,1607,536"/>
-<area shape="rect" id="node24" href="$animaNonLocalPatchBaseSearcher_8hxx.html" title="animaNonLocalPatchBaseSearcher.hxx" alt="" coords="1095,592,1341,619"/>
+<area shape="rect" id="node2" href="$animaNonLocalMeansTemporalImageFilter_8h.html" title="animaNonLocalMeansTemporal\lImageFilter.h" alt="" coords="1760,79,1969,117"/>
+<area shape="rect" id="node9" href="$animaNonLocalMeansTemporalImageFilter_8hxx.html" title="animaNonLocalMeansTemporal\lImageFilter.hxx" alt="" coords="356,165,565,204"/>
+<area shape="rect" id="node10" href="$animaNonLocalMeansImageFilter_8h.html" title="animaNonLocalMeansImageFilter.h" alt="" coords="1447,252,1678,277"/>
+<area shape="rect" id="node11" href="$animaNonLocalMeansImageFilter_8hxx.html" title="animaNonLocalMeansImageFilter.hxx" alt="" coords="967,325,1211,351"/>
+<area shape="rect" id="node12" href="$animaMeanAndVarianceImagesFilter_8h.html" title="animaMeanAndVarianceImages\lFilter.h" alt="" coords="869,399,1079,437"/>
+<area shape="rect" id="node21" href="$animaNonLocalMeansPatchSearcher_8h.html" title="animaNonLocalMeansPatchSearcher.h" alt="" coords="1245,405,1498,431"/>
+<area shape="rect" id="node15" href="$animaMeanAndVarianceImagesFilter_8hxx.html" title="animaMeanAndVarianceImages\lFilter.hxx" alt="" coords="497,485,707,524"/>
+<area shape="rect" id="node22" href="$animaNonLocalPatchBaseSearcher_8h.html" title="animaNonLocalPatchBaseSearcher.h" alt="" coords="1062,492,1305,517"/>
+<area shape="rect" id="node27" href="$animaNonLocalMeansPatchSearcher_8hxx.html" title="animaNonLocalMeansPatchSearcher.hxx" alt="" coords="1380,492,1646,517"/>
+<area shape="rect" id="node24" href="$animaNonLocalPatchBaseSearcher_8hxx.html" title="animaNonLocalPatchBaseSearcher.hxx" alt="" coords="1125,572,1381,597"/>
 </map>

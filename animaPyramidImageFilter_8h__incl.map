@@ -1,10 +1,18 @@
 <map id="animaPyramidImageFilter.h" name="animaPyramidImageFilter.h">
-<area shape="rect" id="node4" href="$animaPyramidImageFilter_8hxx.html" title="animaPyramidImageFilter.hxx" alt="" coords="1464,80,1654,107"/>
-<area shape="rect" id="node6" href="$animaResampleImageFilter_8h.html" title="animaResampleImageFilter.h" alt="" coords="729,163,918,189"/>
-<area shape="rect" id="node23" href="$animaOrientedModelBaseResampleImageFilter_8h.html" title="animaOrientedModelBaseResample\lImageFilter.h" alt="" coords="1677,155,1903,197"/>
-<area shape="rect" id="node14" href="$animaResampleImageFilter_8hxx.html" title="animaResampleImageFilter.hxx" alt="" coords="563,253,763,280"/>
-<area shape="rect" id="node25" href="$animaOrientedModelBaseResampleImageFilter_8hxx.html" title="animaOrientedModelBaseResample\lImageFilter.hxx" alt="" coords="1711,246,1938,287"/>
-<area shape="rect" id="node27" href="$animaVectorModelLinearInterpolateImageFunction_8h.html" title="animaVectorModelLinearInterpolate\lImageFunction.h" alt="" coords="1711,337,1935,378"/>
-<area shape="rect" id="node28" href="$animaBaseTensorTools_8h.html" title="animaBaseTensorTools.h" alt="" coords="1960,344,2126,371"/>
-<area shape="rect" id="node33" href="$animaBaseTensorTools_8hxx.html" title="animaBaseTensorTools.hxx" alt="" coords="2045,435,2223,461"/>
+<area shape="rect" id="node4" href="$animaPyramidImageFilter_8hxx.html" title="animaPyramidImageFilter.hxx" alt="" coords="1245,79,1442,104"/>
+<area shape="rect" id="node6" href="$animaResampleImageFilter_8h.html" title="animaResampleImageFilter.h" alt="" coords="827,159,1022,184"/>
+<area shape="rect" id="node23" href="$animaOrientedModelBaseResampleImageFilter_8h.html" title="animaOrientedModelBaseResample\lImageFilter.h" alt="" coords="1627,152,1862,191"/>
+<area shape="rect" id="node14" href="$animaResampleImageFilter_8hxx.html" title="animaResampleImageFilter.hxx" alt="" coords="399,245,607,271"/>
+<area shape="rect" id="node25" href="$animaOrientedModelBaseResampleImageFilter_8hxx.html" title="animaOrientedModelBaseResample\lImageFilter.hxx" alt="" coords="1627,239,1862,277"/>
+<area shape="rect" id="node27" href="$animaVectorModelLinearInterpolateImageFunction_8h.html" title="animaVectorModelLinearInterpolate\lImageFunction.h" alt="" coords="2083,325,2315,364"/>
+<area shape="rect" id="node31" href="$animaBaseTensorTools_8h.html" title="animaBaseTensorTools.h" alt="" coords="1568,332,1738,357"/>
+<area shape="rect" id="node29" href="$animaVectorModelLinearInterpolateImageFunction_8hxx.html" title="animaVectorModelLinearInterpolate\lImageFunction.hxx" alt="" coords="2214,412,2446,451"/>
+<area shape="rect" id="node35" href="$animaBaseTensorTools_8hxx.html" title="animaBaseTensorTools.hxx" alt="" coords="1388,419,1571,444"/>
+<area shape="rect" id="node37" href="$animaVectorOperations_8h.html" title="animaVectorOperations.h" alt="" coords="1187,652,1359,677"/>
+<area shape="rect" id="node48" href="$animaMatrixOperations_8h.html" title="animaMatrixOperations.h" alt="" coords="1406,499,1576,524"/>
+<area shape="rect" id="node43" href="$animaVectorOperations_8hxx.html" title="animaVectorOperations.hxx" alt="" coords="987,732,1172,757"/>
+<area shape="rect" id="node45" href="$animaLogarithmFunctions_8h.html" title="animaLogarithmFunctions.h" alt="" coords="986,805,1172,831"/>
+<area shape="rect" id="node46" href="$animaLogarithmFunctions_8hxx.html" title="animaLogarithmFunctions.hxx" alt="" coords="984,879,1183,904"/>
+<area shape="rect" id="node49" href="$animaMatrixOperations_8hxx.html" title="animaMatrixOperations.hxx" alt="" coords="1400,572,1583,597"/>
+<area shape="rect" id="node50" href="$animaLinearTransformEstimationTools_8h.html" title="animaLinearTransformEstimation\lTools.h" alt="" coords="1383,645,1600,684"/>
 </map>

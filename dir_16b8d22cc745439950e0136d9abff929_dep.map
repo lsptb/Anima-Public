@@ -1,0 +1,9 @@
+<map id="distortion_correction" name="distortion_correction">
+<area shape="rect" id="node1" href="dir_16b8d22cc745439950e0136d9abff929.html" title="distortion_correction" alt="" coords="27,51,168,99"/>
+<area shape="rect" id="node2" href="dir_647cca6ebdb2d46dc052c60af1393028.html" title="filtering" alt="" coords="25,147,97,195"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000035_000045.html" title="1" alt="" coords="81,126,88,139"/>
+<area shape="rect" id="node3" href="dir_d55d7fa03458ae0c08d8df6528f0ecaa.html" title="math&#45;tools" alt="" coords="56,243,139,291"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000035_000013.html" title="2" alt="" coords="110,220,118,233"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000045_000013.html" title="5" alt="" coords="86,216,94,229"/>
+<area shape="rect" id="clust1" href="dir_792ef078bd5b4a325432fee05ab6a845.html" title="anatomical&#45;commands" alt="" coords="16,16,179,109"/>
+</map>

@@ -1,13 +1,17 @@
 <map id="animaDTIEstimationImageFilter.hxx" name="animaDTIEstimationImageFilter.hxx">
-<area shape="rect" id="node2" href="$animaDTIEstimationImageFilter_8h.html" title="animaDTIEstimationImageFilter.h" alt="" coords="2595,88,2808,115"/>
-<area shape="rect" id="node21" href="$animaVectorOperations_8h.html" title="animaVectorOperations.h" alt="" coords="413,88,579,115"/>
-<area shape="rect" id="node32" href="$animaBaseTensorTools_8h.html" title="animaBaseTensorTools.h" alt="" coords="1162,171,1328,197"/>
-<area shape="rect" id="node3" href="$animaMaskedImageToImageFilter_8h.html" title="animaMaskedImageToImageFilter.h" alt="" coords="1975,171,2203,197"/>
-<area shape="rect" id="node6" href="$animaImageRegionSplitterMask_8h.html" title="animaImageRegionSplitter\lMask.h" alt="" coords="2099,246,2273,287"/>
-<area shape="rect" id="node13" href="$animaMaskedImageToImageFilter_8hxx.html" title="animaMaskedImageToImageFilter.hxx" alt="" coords="1648,253,1888,280"/>
-<area shape="rect" id="node9" href="$animaImageRegionSplitterMask_8hxx.html" title="animaImageRegionSplitter\lMask.hxx" alt="" coords="2099,337,2273,378"/>
-<area shape="rect" id="node26" href="$animaVectorOperations_8hxx.html" title="animaVectorOperations.hxx" alt="" coords="407,171,585,197"/>
-<area shape="rect" id="node28" href="$animaLogarithmFunctions_8h.html" title="animaLogarithmFunctions.h" alt="" coords="186,253,365,280"/>
-<area shape="rect" id="node29" href="$animaLogarithmFunctions_8hxx.html" title="animaLogarithmFunctions.hxx" alt="" coords="177,344,369,371"/>
-<area shape="rect" id="node36" href="$animaBaseTensorTools_8hxx.html" title="animaBaseTensorTools.hxx" alt="" coords="1253,253,1432,280"/>
+<area shape="rect" id="node2" href="$animaDTIEstimationImageFilter_8h.html" title="animaDTIEstimationImageFilter.h" alt="" coords="1503,85,1721,111"/>
+<area shape="rect" id="node20" href="$animaVectorOperations_8h.html" title="animaVectorOperations.h" alt="" coords="1106,392,1278,417"/>
+<area shape="rect" id="node32" href="$animaBaseTensorTools_8h.html" title="animaBaseTensorTools.h" alt="" coords="1099,85,1269,111"/>
+<area shape="rect" id="node3" href="$animaMaskedImageToImageFilter_8h.html" title="animaMaskedImageToImageFilter.h" alt="" coords="1694,165,1927,191"/>
+<area shape="rect" id="node10" href="$animaMaskedImageToImageFilter_8hxx.html" title="animaMaskedImageToImageFilter.hxx" alt="" coords="1502,239,1748,264"/>
+<area shape="rect" id="node26" href="$animaVectorOperations_8hxx.html" title="animaVectorOperations.hxx" alt="" coords="1367,479,1553,504"/>
+<area shape="rect" id="node28" href="$animaLogarithmFunctions_8h.html" title="animaLogarithmFunctions.h" alt="" coords="1179,559,1365,584"/>
+<area shape="rect" id="node29" href="$animaLogarithmFunctions_8hxx.html" title="animaLogarithmFunctions.hxx" alt="" coords="1252,639,1452,664"/>
+<area shape="rect" id="node36" href="$animaBaseTensorTools_8hxx.html" title="animaBaseTensorTools.hxx" alt="" coords="1092,165,1276,191"/>
+<area shape="rect" id="node38" href="$animaMatrixOperations_8h.html" title="animaMatrixOperations.h" alt="" coords="840,239,1010,264"/>
+<area shape="rect" id="node39" href="$animaMatrixOperations_8hxx.html" title="animaMatrixOperations.hxx" alt="" coords="830,312,1013,337"/>
+<area shape="rect" id="node40" href="$animaLinearTransformEstimationTools_8h.html" title="animaLinearTransformEstimation\lTools.h" alt="" coords="538,385,755,424"/>
+<area shape="rect" id="node42" href="$animaLinearTransformEstimationTools_8hxx.html" title="animaLinearTransformEstimation\lTools.hxx" alt="" coords="457,472,674,511"/>
+<area shape="rect" id="node43" href="$animaMatrixLogExp_8h.html" title="animaMatrixLogExp.h" alt="" coords="662,559,812,584"/>
+<area shape="rect" id="node47" href="$animaMatrixLogExp_8hxx.html" title="animaMatrixLogExp.hxx" alt="" coords="704,639,867,664"/>
 </map>

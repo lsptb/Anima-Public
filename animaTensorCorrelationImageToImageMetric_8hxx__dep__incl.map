@@ -1,8 +1,8 @@
 <map id="animaTensorCorrelationImageToImageMetric.hxx" name="animaTensorCorrelationImageToImageMetric.hxx">
-<area shape="rect" id="node2" href="$animaTensorCorrelationImageToImageMetric_8h.html" title="animaTensorCorrelationImage\lToImageMetric.h" alt="" coords="41,97,236,138"/>
-<area shape="rect" id="node3" href="$animaTensorBlockMatcher_8hxx.html" title="animaTensorBlockMatcher.hxx" alt="" coords="39,187,237,213"/>
-<area shape="rect" id="node4" href="$animaTensorBlockMatcher_8h.html" title="animaTensorBlockMatcher.h" alt="" coords="45,261,232,288"/>
-<area shape="rect" id="node5" href="$animaPyramidalDenseTensorSVFMatchingBridge_8hxx.html" title="animaPyramidalDenseTensor\lSVFMatchingBridge.hxx" alt="" coords="44,337,233,378"/>
-<area shape="rect" id="node6" href="$animaPyramidalDenseTensorSVFMatchingBridge_8h.html" title="animaPyramidalDenseTensor\lSVFMatchingBridge.h" alt="" coords="44,427,233,469"/>
-<area shape="rect" id="node7" href="$animaDenseTensorSVFBMRegistration_8cxx.html" title="animaDenseTensorSVFBMRegistration.cxx" alt="" coords="5,517,272,544"/>
+<area shape="rect" id="node2" href="$animaTensorCorrelationImageToImageMetric_8h.html" title="animaTensorCorrelationImage\lToImageMetric.h" alt="" coords="44,92,244,131"/>
+<area shape="rect" id="node3" href="$animaTensorBlockMatcher_8hxx.html" title="animaTensorBlockMatcher.hxx" alt="" coords="43,179,245,204"/>
+<area shape="rect" id="node4" href="$animaTensorBlockMatcher_8h.html" title="animaTensorBlockMatcher.h" alt="" coords="49,252,238,277"/>
+<area shape="rect" id="node5" href="$animaPyramidalDenseTensorSVFMatchingBridge_8hxx.html" title="animaPyramidalDenseTensor\lSVFMatchingBridge.hxx" alt="" coords="46,325,242,364"/>
+<area shape="rect" id="node6" href="$animaPyramidalDenseTensorSVFMatchingBridge_8h.html" title="animaPyramidalDenseTensor\lSVFMatchingBridge.h" alt="" coords="46,412,242,451"/>
+<area shape="rect" id="node7" href="$animaDenseTensorSVFBMRegistration_8cxx.html" title="animaDenseTensorSVFBMRegistration.cxx" alt="" coords="5,499,282,524"/>
 </map>

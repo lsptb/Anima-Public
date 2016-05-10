@@ -1,0 +1,7 @@
+var searchData=
+[
+  ['metric',['Metric',['../animaPyramidalDistortionCorrectionBlockMatchingBridge_8h.html#abf74dfd688b4203cefa6d49f8d14403e',1,'Metric():&#160;animaPyramidalDistortionCorrectionBlockMatchingBridge.h'],['../animaPyramidalDenseSVFMatchingBridge_8h.html#abf74dfd688b4203cefa6d49f8d14403e',1,'Metric():&#160;animaPyramidalDenseSVFMatchingBridge.h'],['../animaPyramidalBlockMatchingBridge_8h.html#abf74dfd688b4203cefa6d49f8d14403e',1,'Metric():&#160;animaPyramidalBlockMatchingBridge.h'],['../animaPyramidalDenseTensorSVFMatchingBridge_8h.html#abf74dfd688b4203cefa6d49f8d14403e',1,'Metric():&#160;animaPyramidalDenseTensorSVFMatchingBridge.h'],['../animaPyramidalSymmetryConstrainedRegistrationBridge_8h.html#abf74dfd688b4203cefa6d49f8d14403e',1,'Metric():&#160;animaPyramidalSymmetryConstrainedRegistrationBridge.h'],['../animaPyramidalSymmetryBridge_8h.html#abf74dfd688b4203cefa6d49f8d14403e',1,'Metric():&#160;animaPyramidalSymmetryBridge.h']]],
+  ['metricorientationtype',['MetricOrientationType',['../animaPyramidalDenseTensorSVFMatchingBridge_8h.html#abc52cd235d9b10aed04aa8a6f4657431',1,'animaPyramidalDenseTensorSVFMatchingBridge.h']]],
+  ['modelreorientationtype',['ModelReorientationType',['../classanima_1_1BaseOrientedModelImageToImageMetric.html#aef66225a0214bfc95d4ea85b94c38572',1,'anima::BaseOrientedModelImageToImageMetric']]],
+  ['modelrotationtype',['ModelRotationType',['../classanima_1_1TensorBlockMatcher.html#aa83cda92a10d3ff768cbe498ce4b471d',1,'anima::TensorBlockMatcher']]]
+];

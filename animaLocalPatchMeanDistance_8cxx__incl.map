@@ -1,10 +1,8 @@
 <map id="animaLocalPatchMeanDistance.cxx" name="animaLocalPatchMeanDistance.cxx">
-<area shape="rect" id="node6" href="$animaLocalPatchMeanDistanceImageFilter_8h.html" title="animaLocalPatchMeanDistance\lImageFilter.h" alt="" coords="1043,81,1247,122"/>
-<area shape="rect" id="node7" href="$animaMaskedImageToImageFilter_8h.html" title="animaMaskedImageToImageFilter.h" alt="" coords="475,179,703,205"/>
-<area shape="rect" id="node19" href="$animaLocalPatchMeanDistanceImageFilter_8hxx.html" title="animaLocalPatchMeanDistance\lImageFilter.hxx" alt="" coords="1313,171,1516,213"/>
-<area shape="rect" id="node9" href="$animaImageRegionSplitterMask_8h.html" title="animaImageRegionSplitter\lMask.h" alt="" coords="551,262,725,303"/>
-<area shape="rect" id="node16" href="$animaMaskedImageToImageFilter_8hxx.html" title="animaMaskedImageToImageFilter.hxx" alt="" coords="100,269,340,296"/>
-<area shape="rect" id="node12" href="$animaImageRegionSplitterMask_8hxx.html" title="animaImageRegionSplitter\lMask.hxx" alt="" coords="447,353,621,394"/>
-<area shape="rect" id="node22" href="$animaVectorImagePatchStatistics_8h.html" title="animaVectorImagePatchStatistics.h" alt="" coords="1301,269,1528,296"/>
-<area shape="rect" id="node23" href="$animaVectorImagePatchStatistics_8hxx.html" title="animaVectorImagePatchStatistics.hxx" alt="" coords="1347,360,1585,387"/>
+<area shape="rect" id="node6" href="$animaLocalPatchMeanDistanceImageFilter_8h.html" title="animaLocalPatchMeanDistance\lImageFilter.h" alt="" coords="1218,79,1427,117"/>
+<area shape="rect" id="node7" href="$animaMaskedImageToImageFilter_8h.html" title="animaMaskedImageToImageFilter.h" alt="" coords="587,172,819,197"/>
+<area shape="rect" id="node18" href="$animaLocalPatchMeanDistanceImageFilter_8hxx.html" title="animaLocalPatchMeanDistance\lImageFilter.hxx" alt="" coords="1289,165,1498,204"/>
+<area shape="rect" id="node13" href="$animaMaskedImageToImageFilter_8hxx.html" title="animaMaskedImageToImageFilter.hxx" alt="" coords="969,259,1215,284"/>
+<area shape="rect" id="node21" href="$animaVectorImagePatchStatistics_8h.html" title="animaVectorImagePatchStatistics.h" alt="" coords="1387,259,1618,284"/>
+<area shape="rect" id="node22" href="$animaVectorImagePatchStatistics_8hxx.html" title="animaVectorImagePatchStatistics.hxx" alt="" coords="1387,339,1632,364"/>
 </map>

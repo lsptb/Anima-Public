@@ -1,12 +1,12 @@
 <map id="animaRandomInitializer.h" name="animaRandomInitializer.h">
-<area shape="rect" id="node2" href="$animaClassificationStrategy_8h.html" title="animaClassificationStrategy.h" alt="" coords="99,80,289,107"/>
-<area shape="rect" id="node4" href="$animaHierarchicalInitializer_8h.html" title="animaHierarchicalInitializer.h" alt="" coords="299,155,485,181"/>
-<area shape="rect" id="node11" href="$animaRandomInitializer_8cxx.html" title="animaRandomInitializer.cxx" alt="" coords="408,80,587,107"/>
-<area shape="rect" id="node3" href="$animaClassificationStrategy_8hxx.html" title="animaClassificationStrategy.hxx" alt="" coords="72,155,275,181"/>
-<area shape="rect" id="node5" href="$animaComputeSolution_8h.html" title="animaComputeSolution.h" alt="" coords="102,229,268,256"/>
-<area shape="rect" id="node10" href="$animaHierarchicalInitializer_8hxx.html" title="animaHierarchicalInitializer.hxx" alt="" coords="293,229,491,256"/>
-<area shape="rect" id="node6" href="$animaComputeSolution_8hxx.html" title="animaComputeSolution.hxx" alt="" coords="96,312,275,339"/>
-<area shape="rect" id="node7" href="$animaGcStremMsLesionsSegmentationFilter_8h.html" title="animaGcStremMsLesionsSegmentation\lFilter.h" alt="" coords="299,305,548,346"/>
-<area shape="rect" id="node8" href="$animaGcStremMsLesionsSegmentation_8cxx.html" title="animaGcStremMsLesionsSegmentation.cxx" alt="" coords="5,403,275,429"/>
-<area shape="rect" id="node9" href="$animaGcStremMsLesionsSegmentationFilter_8hxx.html" title="animaGcStremMsLesionsSegmentation\lFilter.hxx" alt="" coords="299,395,548,437"/>
+<area shape="rect" id="node2" href="$animaClassificationStrategy_8h.html" title="animaClassificationStrategy.h" alt="" coords="106,79,302,104"/>
+<area shape="rect" id="node4" href="$animaHierarchicalInitializer_8h.html" title="animaHierarchicalInitializer.h" alt="" coords="310,152,501,177"/>
+<area shape="rect" id="node11" href="$animaRandomInitializer_8cxx.html" title="animaRandomInitializer.cxx" alt="" coords="420,79,604,104"/>
+<area shape="rect" id="node3" href="$animaClassificationStrategy_8hxx.html" title="animaClassificationStrategy.hxx" alt="" coords="77,152,286,177"/>
+<area shape="rect" id="node5" href="$animaComputeSolution_8h.html" title="animaComputeSolution.h" alt="" coords="108,225,279,251"/>
+<area shape="rect" id="node10" href="$animaHierarchicalInitializer_8hxx.html" title="animaHierarchicalInitializer.hxx" alt="" coords="303,225,508,251"/>
+<area shape="rect" id="node6" href="$animaComputeSolution_8hxx.html" title="animaComputeSolution.hxx" alt="" coords="101,305,286,331"/>
+<area shape="rect" id="node7" href="$animaGcStremMsLesionsSegmentationFilter_8h.html" title="animaGcStremMsLesionsSegmentation\lFilter.h" alt="" coords="309,299,565,337"/>
+<area shape="rect" id="node8" href="$animaGcStremMsLesionsSegmentation_8cxx.html" title="animaGcStremMsLesionsSegmentation.cxx" alt="" coords="5,392,285,417"/>
+<area shape="rect" id="node9" href="$animaGcStremMsLesionsSegmentationFilter_8hxx.html" title="animaGcStremMsLesionsSegmentation\lFilter.hxx" alt="" coords="309,385,565,424"/>
 </map>

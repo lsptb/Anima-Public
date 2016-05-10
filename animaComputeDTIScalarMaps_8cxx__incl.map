@@ -1,7 +1,16 @@
 <map id="animaComputeDTIScalarMaps.cxx" name="animaComputeDTIScalarMaps.cxx">
-<area shape="rect" id="node2" href="$animaDTIScalarMapsImageFilter_8h.html" title="animaDTIScalarMapsImageFilter.h" alt="" coords="808,80,1029,107"/>
-<area shape="rect" id="node27" href="$animaReadWriteFunctions_8h.html" title="animaReadWriteFunctions.h" alt="" coords="1402,80,1584,107"/>
-<area shape="rect" id="node7" href="$animaDTIScalarMapsImageFilter_8hxx.html" title="animaDTIScalarMapsImageFilter.hxx" alt="" coords="902,155,1135,181"/>
-<area shape="rect" id="node17" href="$animaBaseTensorTools_8h.html" title="animaBaseTensorTools.h" alt="" coords="1383,237,1549,264"/>
-<area shape="rect" id="node22" href="$animaBaseTensorTools_8hxx.html" title="animaBaseTensorTools.hxx" alt="" coords="1180,328,1359,355"/>
+<area shape="rect" id="node2" href="$animaDTIScalarMapsImageFilter_8h.html" title="animaDTIScalarMapsImageFilter.h" alt="" coords="1123,79,1349,104"/>
+<area shape="rect" id="node49" href="$animaReadWriteFunctions_8h.html" title="animaReadWriteFunctions.h" alt="" coords="1892,79,2081,104"/>
+<area shape="rect" id="node7" href="$animaDTIScalarMapsImageFilter_8hxx.html" title="animaDTIScalarMapsImageFilter.hxx" alt="" coords="891,152,1131,177"/>
+<area shape="rect" id="node17" href="$animaBaseTensorTools_8h.html" title="animaBaseTensorTools.h" alt="" coords="43,232,213,257"/>
+<area shape="rect" id="node22" href="$animaBaseTensorTools_8hxx.html" title="animaBaseTensorTools.hxx" alt="" coords="1402,312,1585,337"/>
+<area shape="rect" id="node23" href="$animaVectorOperations_8h.html" title="animaVectorOperations.h" alt="" coords="1397,539,1569,564"/>
+<area shape="rect" id="node34" href="$animaMatrixOperations_8h.html" title="animaMatrixOperations.h" alt="" coords="1402,385,1572,411"/>
+<area shape="rect" id="node29" href="$animaVectorOperations_8hxx.html" title="animaVectorOperations.hxx" alt="" coords="1526,625,1711,651"/>
+<area shape="rect" id="node31" href="$animaLogarithmFunctions_8h.html" title="animaLogarithmFunctions.h" alt="" coords="1728,705,1914,731"/>
+<area shape="rect" id="node32" href="$animaLogarithmFunctions_8hxx.html" title="animaLogarithmFunctions.hxx" alt="" coords="1642,785,1841,811"/>
+<area shape="rect" id="node35" href="$animaMatrixOperations_8hxx.html" title="animaMatrixOperations.hxx" alt="" coords="1391,459,1574,484"/>
+<area shape="rect" id="node36" href="$animaLinearTransformEstimationTools_8h.html" title="animaLinearTransformEstimation\lTools.h" alt="" coords="830,532,1047,571"/>
+<area shape="rect" id="node38" href="$animaLinearTransformEstimationTools_8hxx.html" title="animaLinearTransformEstimation\lTools.hxx" alt="" coords="499,619,717,657"/>
+<area shape="rect" id="node39" href="$animaMatrixLogExp_8h.html" title="animaMatrixLogExp.h" alt="" coords="705,705,855,731"/>
 </map>

@@ -1,7 +1,5 @@
 <map id="animaPatientToGroupComparisonImageFilter.hxx" name="animaPatientToGroupComparisonImageFilter.hxx">
-<area shape="rect" id="node2" href="$animaPatientToGroupComparisonImageFilter_8h.html" title="animaPatientToGroupComparison\lImageFilter.h" alt="" coords="833,97,1049,138"/>
-<area shape="rect" id="node4" href="$animaMaskedImageToImageFilter_8h.html" title="animaMaskedImageToImageFilter.h" alt="" coords="569,187,796,213"/>
-<area shape="rect" id="node6" href="$animaImageRegionSplitterMask_8h.html" title="animaImageRegionSplitter\lMask.h" alt="" coords="838,262,1012,303"/>
-<area shape="rect" id="node13" href="$animaMaskedImageToImageFilter_8hxx.html" title="animaMaskedImageToImageFilter.hxx" alt="" coords="573,269,813,296"/>
-<area shape="rect" id="node9" href="$animaImageRegionSplitterMask_8hxx.html" title="animaImageRegionSplitter\lMask.hxx" alt="" coords="838,353,1012,394"/>
+<area shape="rect" id="node2" href="$animaPatientToGroupComparisonImageFilter_8h.html" title="animaPatientToGroupComparison\lImageFilter.h" alt="" coords="949,92,1171,131"/>
+<area shape="rect" id="node4" href="$animaMaskedImageToImageFilter_8h.html" title="animaMaskedImageToImageFilter.h" alt="" coords="587,179,819,204"/>
+<area shape="rect" id="node10" href="$animaMaskedImageToImageFilter_8hxx.html" title="animaMaskedImageToImageFilter.hxx" alt="" coords="969,252,1215,277"/>
 </map>

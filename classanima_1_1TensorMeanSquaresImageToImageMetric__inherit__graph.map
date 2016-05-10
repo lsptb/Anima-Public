@@ -1,3 +1,4 @@
 <map id="anima::TensorMeanSquaresImageToImageMetric&lt; TFixedImagePixelType, TMovingImagePixelType, ImageDimension &gt;" name="anima::TensorMeanSquaresImageToImageMetric&lt; TFixedImagePixelType, TMovingImagePixelType, ImageDimension &gt;">
-<area shape="rect" id="node2" href="$classanima_1_1BaseOrientedModelImageToImageMetric.html" title="anima::BaseOrientedModel\lImageToImageMetric\&lt; itk\l::VectorImage\&lt; TFixedImagePixel\lType, ImageDimension \&gt;, itk\l::VectorImage\&lt; TMovingImagePixelType,\l ImageDimension \&gt; \&gt;" alt="" coords="249,5,506,105"/>
+<area shape="rect" id="node2" href="$classanima_1_1BaseOrientedModelImageToImageMetric.html" title="anima::BaseOrientedModel\lImageToImageMetric\&lt; itk\l::VectorImage\&lt; TFixedImagePixel\lType, ImageDimension \&gt;, itk\l::VectorImage\&lt; TMovingImagePixelType,\l ImageDimension \&gt; \&gt;" alt="" coords="252,5,516,97"/>
+<area shape="rect" id="node3" href="$classitk_1_1SingleValuedCostFunction.html" title="itk::SingleValuedCostFunction" alt="" coords="5,39,204,64"/>
 </map>

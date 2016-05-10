@@ -1,9 +1,9 @@
 <map id="animaBaseBlockMatcher.hxx" name="animaBaseBlockMatcher.hxx">
-<area shape="rect" id="node2" href="$animaBaseBlockMatcher_8h.html" title="animaBaseBlockMatcher.h" alt="" coords="1367,80,1543,107"/>
-<area shape="rect" id="node10" href="$animaBobyqaOptimizer_8h.html" title="animaBobyqaOptimizer.h" alt="" coords="1737,80,1901,107"/>
-<area shape="rect" id="node14" href="$animaVoxelExhaustiveOptimizer_8h.html" title="animaVoxelExhaustiveOptimizer.h" alt="" coords="1947,80,2161,107"/>
-<area shape="rect" id="node16" href="$animaBlockMatchInitializer_8h.html" title="animaBlockMatchInitializer.h" alt="" coords="612,80,799,107"/>
-<area shape="rect" id="node3" href="$animaBaseTransformAgregator_8h.html" title="animaBaseTransformAgregator.h" alt="" coords="1349,163,1559,189"/>
-<area shape="rect" id="node7" href="$animaBaseTransformAgregator_8hxx.html" title="animaBaseTransformAgregator.hxx" alt="" coords="1430,253,1652,280"/>
-<area shape="rect" id="node21" href="$animaBlockMatchInitializer_8hxx.html" title="animaBlockMatchInitializer.hxx" alt="" coords="307,163,505,189"/>
+<area shape="rect" id="node2" href="$animaBaseBlockMatcher_8h.html" title="animaBaseBlockMatcher.h" alt="" coords="1390,79,1569,104"/>
+<area shape="rect" id="node10" href="$animaBobyqaOptimizer_8h.html" title="animaBobyqaOptimizer.h" alt="" coords="1767,79,1937,104"/>
+<area shape="rect" id="node14" href="$animaVoxelExhaustiveOptimizer_8h.html" title="animaVoxelExhaustiveOptimizer.h" alt="" coords="1979,79,2202,104"/>
+<area shape="rect" id="node16" href="$animaBlockMatchInitializer_8h.html" title="animaBlockMatchInitializer.h" alt="" coords="625,79,815,104"/>
+<area shape="rect" id="node3" href="$animaBaseTransformAgregator_8h.html" title="animaBaseTransformAgregator.h" alt="" coords="1371,159,1589,184"/>
+<area shape="rect" id="node7" href="$animaBaseTransformAgregator_8hxx.html" title="animaBaseTransformAgregator.hxx" alt="" coords="1453,245,1683,271"/>
+<area shape="rect" id="node21" href="$animaBlockMatchInitializer_8hxx.html" title="animaBlockMatchInitializer.hxx" alt="" coords="314,159,517,184"/>
 </map>

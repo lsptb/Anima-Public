@@ -1,11 +1,11 @@
 <map id="animaMEstTransformAgregator.h" name="animaMEstTransformAgregator.h">
-<area shape="rect" id="node2" href="$animaBaseTransformAgregator_8h.html" title="animaBaseTransformAgregator.h" alt="" coords="1205,163,1415,189"/>
-<area shape="rect" id="node8" href="$animaMEstTransformAgregator_8hxx.html" title="animaMEstTransformAgregator.hxx" alt="" coords="789,80,1011,107"/>
-<area shape="rect" id="node6" href="$animaBaseTransformAgregator_8hxx.html" title="animaBaseTransformAgregator.hxx" alt="" coords="1387,253,1609,280"/>
-<area shape="rect" id="node9" href="$animaLogRigid3DTransform_8h.html" title="animaLogRigid3DTransform.h" alt="" coords="467,163,657,189"/>
-<area shape="rect" id="node24" href="$animaLinearTransformEstimationTools_8h.html" title="animaLinearTransformEstimation\lTools.h" alt="" coords="924,155,1133,197"/>
-<area shape="rect" id="node11" href="$animaLogRigid3DTransform_8hxx.html" title="animaLogRigid3DTransform.hxx" alt="" coords="407,253,609,280"/>
-<area shape="rect" id="node12" href="$animaMatrixLogExp_8h.html" title="animaMatrixLogExp.h" alt="" coords="451,336,595,363"/>
-<area shape="rect" id="node18" href="$animaMatrixLogExp_8hxx.html" title="animaMatrixLogExp.hxx" alt="" coords="295,419,451,445"/>
-<area shape="rect" id="node26" href="$animaLinearTransformEstimationTools_8hxx.html" title="animaLinearTransformEstimation\lTools.hxx" alt="" coords="844,246,1053,287"/>
+<area shape="rect" id="node2" href="$animaBaseTransformAgregator_8h.html" title="animaBaseTransformAgregator.h" alt="" coords="1156,159,1373,184"/>
+<area shape="rect" id="node8" href="$animaMEstTransformAgregator_8hxx.html" title="animaMEstTransformAgregator.hxx" alt="" coords="734,79,965,104"/>
+<area shape="rect" id="node6" href="$animaBaseTransformAgregator_8hxx.html" title="animaBaseTransformAgregator.hxx" alt="" coords="1341,245,1572,271"/>
+<area shape="rect" id="node9" href="$animaLogRigid3DTransform_8h.html" title="animaLogRigid3DTransform.h" alt="" coords="404,159,602,184"/>
+<area shape="rect" id="node23" href="$animaLinearTransformEstimationTools_8h.html" title="animaLinearTransformEstimation\lTools.h" alt="" coords="873,152,1090,191"/>
+<area shape="rect" id="node11" href="$animaLogRigid3DTransform_8hxx.html" title="animaLogRigid3DTransform.hxx" alt="" coords="340,245,552,271"/>
+<area shape="rect" id="node12" href="$animaMatrixLogExp_8h.html" title="animaMatrixLogExp.h" alt="" coords="386,325,537,351"/>
+<area shape="rect" id="node18" href="$animaMatrixLogExp_8hxx.html" title="animaMatrixLogExp.hxx" alt="" coords="230,405,394,431"/>
+<area shape="rect" id="node25" href="$animaLinearTransformEstimationTools_8hxx.html" title="animaLinearTransformEstimation\lTools.hxx" alt="" coords="792,239,1009,277"/>
 </map>

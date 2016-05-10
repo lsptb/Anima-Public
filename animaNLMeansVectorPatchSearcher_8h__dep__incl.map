@@ -1,9 +1,9 @@
 <map id="animaNLMeansVectorPatchSearcher.h" name="animaNLMeansVectorPatchSearcher.h">
-<area shape="rect" id="node2" href="$animaNLMeansPatientToGroupComparisonImageFilter_8hxx.html" title="animaNLMeansPatientToGroup\lComparisonImageFilter.hxx" alt="" coords="232,81,435,122"/>
-<area shape="rect" id="node8" href="$animaNLMeansVectorPatchSearcher_8hxx.html" title="animaNLMeansVectorPatchSearcher.hxx" alt="" coords="459,88,715,115"/>
-<area shape="rect" id="node3" href="$animaNLMeansPatientToGroupComparisonImageFilter_8h.html" title="animaNLMeansPatientToGroup\lComparisonImageFilter.h" alt="" coords="232,171,435,213"/>
-<area shape="rect" id="node4" href="$animaLowMemNLMeansPatientToGroupComparisonBridge_8h.html" title="animaLowMemNLMeansPatient\lToGroupComparisonBridge.h" alt="" coords="118,262,321,303"/>
-<area shape="rect" id="node7" href="$animaNLMeansPatientToGroupComparison_8cxx.html" title="animaNLMeansPatientToGroup\lComparison.cxx" alt="" coords="347,262,549,303"/>
-<area shape="rect" id="node5" href="$animaLowMemNLMeansPatientToGroupComparison_8cxx.html" title="animaLowMemNLMeansPatient\lToGroupComparison.cxx" alt="" coords="5,353,208,394"/>
-<area shape="rect" id="node6" href="$animaLowMemNLMeansPatientToGroupComparisonBridge_8cxx.html" title="animaLowMemNLMeansPatient\lToGroupComparisonBridge.cxx" alt="" coords="233,353,436,394"/>
+<area shape="rect" id="node2" href="$animaNLMeansPatientToGroupComparisonImageFilter_8hxx.html" title="animaNLMeansPatientToGroup\lComparisonImageFilter.hxx" alt="" coords="240,79,448,117"/>
+<area shape="rect" id="node8" href="$animaNLMeansVectorPatchSearcher_8hxx.html" title="animaNLMeansVectorPatchSearcher.hxx" alt="" coords="472,85,736,111"/>
+<area shape="rect" id="node3" href="$animaNLMeansPatientToGroupComparisonImageFilter_8h.html" title="animaNLMeansPatientToGroup\lComparisonImageFilter.h" alt="" coords="240,165,448,204"/>
+<area shape="rect" id="node4" href="$animaLowMemNLMeansPatientToGroupComparisonBridge_8h.html" title="animaLowMemNLMeansPatient\lToGroupComparisonBridge.h" alt="" coords="123,252,333,291"/>
+<area shape="rect" id="node7" href="$animaNLMeansPatientToGroupComparison_8cxx.html" title="animaNLMeansPatientToGroup\lComparison.cxx" alt="" coords="357,252,565,291"/>
+<area shape="rect" id="node5" href="$animaLowMemNLMeansPatientToGroupComparison_8cxx.html" title="animaLowMemNLMeansPatient\lToGroupComparison.cxx" alt="" coords="5,339,216,377"/>
+<area shape="rect" id="node6" href="$animaLowMemNLMeansPatientToGroupComparisonBridge_8cxx.html" title="animaLowMemNLMeansPatient\lToGroupComparisonBridge.cxx" alt="" coords="240,339,450,377"/>
 </map>

@@ -1,7 +1,7 @@
 <map id="animaLocalPatchCovarianceDistanceImageFilter.h" name="animaLocalPatchCovarianceDistanceImageFilter.h">
-<area shape="rect" id="node2" href="$animaLocalPatchCovarianceDistanceImageFilter_8hxx.html" title="animaLocalPatchCovariance\lDistanceImageFilter.hxx" alt="" coords="5,97,192,138"/>
-<area shape="rect" id="node3" href="$animaLocalPatchCovarianceDistance_8cxx.html" title="animaLocalPatchCovariance\lDistance.cxx" alt="" coords="216,97,403,138"/>
-<area shape="rect" id="node4" href="$animaLowMemLocalPatchCovarianceDistanceBridge_8h.html" title="animaLowMemLocalPatchCovariance\lDistanceBridge.h" alt="" coords="427,97,665,138"/>
-<area shape="rect" id="node5" href="$animaLowMemLocalPatchCovarianceDistance_8cxx.html" title="animaLowMemLocalPatchCovariance\lDistance.cxx" alt="" coords="295,187,533,229"/>
-<area shape="rect" id="node6" href="$animaLowMemLocalPatchCovarianceDistanceBridge_8cxx.html" title="animaLowMemLocalPatchCovariance\lDistanceBridge.cxx" alt="" coords="558,187,796,229"/>
+<area shape="rect" id="node2" href="$animaLocalPatchCovarianceDistanceImageFilter_8hxx.html" title="animaLocalPatchCovariance\lDistanceImageFilter.hxx" alt="" coords="5,92,196,131"/>
+<area shape="rect" id="node3" href="$animaLocalPatchCovarianceDistance_8cxx.html" title="animaLocalPatchCovariance\lDistance.cxx" alt="" coords="220,92,411,131"/>
+<area shape="rect" id="node4" href="$animaLowMemLocalPatchCovarianceDistanceBridge_8h.html" title="animaLowMemLocalPatchCovariance\lDistanceBridge.h" alt="" coords="436,92,681,131"/>
+<area shape="rect" id="node5" href="$animaLowMemLocalPatchCovarianceDistance_8cxx.html" title="animaLowMemLocalPatchCovariance\lDistance.cxx" alt="" coords="301,179,546,217"/>
+<area shape="rect" id="node6" href="$animaLowMemLocalPatchCovarianceDistanceBridge_8cxx.html" title="animaLowMemLocalPatchCovariance\lDistanceBridge.cxx" alt="" coords="570,179,815,217"/>
 </map>

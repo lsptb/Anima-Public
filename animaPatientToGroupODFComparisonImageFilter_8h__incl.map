@@ -1,12 +1,10 @@
 <map id="animaPatientToGroupODFComparisonImageFilter.h" name="animaPatientToGroupODFComparisonImageFilter.h">
-<area shape="rect" id="node2" href="$animaPatientToGroupComparisonImageFilter_8h.html" title="animaPatientToGroupComparison\lImageFilter.h" alt="" coords="788,97,1004,138"/>
-<area shape="rect" id="node24" href="$animaODFSphericalHarmonicBasis_8h.html" title="animaODFSphericalHarmonic\lBasis.h" alt="" coords="279,187,472,229"/>
-<area shape="rect" id="node29" href="$animaPatientToGroupODFComparisonImageFilter_8hxx.html" title="animaPatientToGroupODFComparison\lImageFilter.hxx" alt="" coords="1028,97,1271,138"/>
-<area shape="rect" id="node4" href="$animaMaskedImageToImageFilter_8h.html" title="animaMaskedImageToImageFilter.h" alt="" coords="989,195,1216,221"/>
-<area shape="rect" id="node16" href="$animaPatientToGroupComparisonImageFilter_8hxx.html" title="animaPatientToGroupComparison\lImageFilter.hxx" alt="" coords="2069,187,2285,229"/>
-<area shape="rect" id="node6" href="$animaImageRegionSplitterMask_8h.html" title="animaImageRegionSplitter\lMask.h" alt="" coords="919,278,1093,319"/>
-<area shape="rect" id="node13" href="$animaMaskedImageToImageFilter_8hxx.html" title="animaMaskedImageToImageFilter.hxx" alt="" coords="1305,285,1545,312"/>
-<area shape="rect" id="node9" href="$animaImageRegionSplitterMask_8hxx.html" title="animaImageRegionSplitter\lMask.hxx" alt="" coords="1065,369,1239,410"/>
-<area shape="rect" id="node25" href="$animaSphericalHarmonic_8h.html" title="animaSphericalHarmonic.h" alt="" coords="5,285,181,312"/>
-<area shape="rect" id="node28" href="$animaODFSphericalHarmonicBasis_8hxx.html" title="animaODFSphericalHarmonic\lBasis.hxx" alt="" coords="307,278,500,319"/>
+<area shape="rect" id="node2" href="$animaPatientToGroupComparisonImageFilter_8h.html" title="animaPatientToGroupComparison\lImageFilter.h" alt="" coords="1208,92,1430,131"/>
+<area shape="rect" id="node23" href="$animaODFSphericalHarmonicBasis_8h.html" title="animaODFSphericalHarmonic\lBasis.h" alt="" coords="332,92,530,131"/>
+<area shape="rect" id="node28" href="$animaPatientToGroupODFComparisonImageFilter_8hxx.html" title="animaPatientToGroupODFComparison\lImageFilter.hxx" alt="" coords="1454,92,1704,131"/>
+<area shape="rect" id="node4" href="$animaMaskedImageToImageFilter_8h.html" title="animaMaskedImageToImageFilter.h" alt="" coords="874,185,1106,211"/>
+<area shape="rect" id="node15" href="$animaPatientToGroupComparisonImageFilter_8hxx.html" title="animaPatientToGroupComparison\lImageFilter.hxx" alt="" coords="1637,179,1860,217"/>
+<area shape="rect" id="node10" href="$animaMaskedImageToImageFilter_8hxx.html" title="animaMaskedImageToImageFilter.hxx" alt="" coords="1247,272,1493,297"/>
+<area shape="rect" id="node24" href="$animaSphericalHarmonic_8h.html" title="animaSphericalHarmonic.h" alt="" coords="127,185,309,211"/>
+<area shape="rect" id="node27" href="$animaODFSphericalHarmonicBasis_8hxx.html" title="animaODFSphericalHarmonic\lBasis.hxx" alt="" coords="332,179,530,217"/>
 </map>

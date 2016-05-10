@@ -1,9 +1,9 @@
 <map id="animaGradientFileReader.hxx" name="animaGradientFileReader.hxx">
-<area shape="rect" id="node2" href="$animaGradientFileReader_8h.html" title="animaGradientFileReader.h" alt="" coords="240,80,419,107"/>
-<area shape="rect" id="node3" href="$animaDTIEstimator_8cxx.html" title="animaDTIEstimator.cxx" alt="" coords="236,229,390,256"/>
-<area shape="rect" id="node4" href="$animaODFEstimator_8cxx.html" title="animaODFEstimator.cxx" alt="" coords="23,155,182,181"/>
-<area shape="rect" id="node5" href="$animaDTIProbabilisticTractography_8cxx.html" title="animaDTIProbabilisticTractography.cxx" alt="" coords="207,155,452,181"/>
-<area shape="rect" id="node6" href="$animaODFProbabilisticTractography_8cxx.html" title="animaODFProbabilisticTractography.cxx" alt="" coords="476,155,727,181"/>
-<area shape="rect" id="node7" href="$animaReorientation_8h.html" title="animaReorientation.h" alt="" coords="752,155,894,181"/>
-<area shape="rect" id="node8" href="$animaConvertImage_8cxx.html" title="animaConvertImage.cxx" alt="" coords="744,229,902,256"/>
+<area shape="rect" id="node2" href="$animaGradientFileReader_8h.html" title="animaGradientFileReader.h" alt="" coords="245,79,430,104"/>
+<area shape="rect" id="node3" href="$animaDTIEstimator_8cxx.html" title="animaDTIEstimator.cxx" alt="" coords="242,225,401,251"/>
+<area shape="rect" id="node4" href="$animaODFEstimator_8cxx.html" title="animaODFEstimator.cxx" alt="" coords="23,152,188,177"/>
+<area shape="rect" id="node5" href="$animaDTIProbabilisticTractography_8cxx.html" title="animaDTIProbabilisticTractography.cxx" alt="" coords="212,152,463,177"/>
+<area shape="rect" id="node6" href="$animaODFProbabilisticTractography_8cxx.html" title="animaODFProbabilisticTractography.cxx" alt="" coords="487,152,745,177"/>
+<area shape="rect" id="node7" href="$animaReorientation_8h.html" title="animaReorientation.h" alt="" coords="769,152,917,177"/>
+<area shape="rect" id="node8" href="$animaConvertImage_8cxx.html" title="animaConvertImage.cxx" alt="" coords="760,225,925,251"/>
 </map>

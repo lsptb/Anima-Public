@@ -1,17 +1,17 @@
 <map id="animaBaseAffineBlockMatcher.h" name="animaBaseAffineBlockMatcher.h">
-<area shape="rect" id="node2" href="$animaBaseBlockMatcher_8h.html" title="animaBaseBlockMatcher.h" alt="" coords="1280,155,1456,181"/>
-<area shape="rect" id="node27" href="$animaBaseAffineBlockMatcher_8hxx.html" title="animaBaseAffineBlockMatcher.hxx" alt="" coords="2507,80,2725,107"/>
-<area shape="rect" id="node3" href="$animaBaseTransformAgregator_8h.html" title="animaBaseTransformAgregator.h" alt="" coords="236,304,445,331"/>
-<area shape="rect" id="node10" href="$animaBaseBlockMatcher_8hxx.html" title="animaBaseBlockMatcher.hxx" alt="" coords="1382,229,1569,256"/>
-<area shape="rect" id="node7" href="$animaBaseTransformAgregator_8hxx.html" title="animaBaseTransformAgregator.hxx" alt="" coords="5,387,227,413"/>
-<area shape="rect" id="node11" href="$animaBobyqaOptimizer_8h.html" title="animaBobyqaOptimizer.h" alt="" coords="1393,304,1557,331"/>
-<area shape="rect" id="node15" href="$animaVoxelExhaustiveOptimizer_8h.html" title="animaVoxelExhaustiveOptimizer.h" alt="" coords="1603,304,1817,331"/>
-<area shape="rect" id="node17" href="$animaBlockMatchInitializer_8h.html" title="animaBlockMatchInitializer.h" alt="" coords="771,304,957,331"/>
-<area shape="rect" id="node22" href="$animaBlockMatchInitializer_8hxx.html" title="animaBlockMatchInitializer.hxx" alt="" coords="857,387,1055,413"/>
-<area shape="rect" id="node29" href="$animaLogRigid3DTransform_8h.html" title="animaLogRigid3DTransform.h" alt="" coords="2450,155,2640,181"/>
-<area shape="rect" id="node42" href="$animaSplitAffine3DTransform_8h.html" title="animaSplitAffine3DTransform.h" alt="" coords="2674,304,2872,331"/>
-<area shape="rect" id="node31" href="$animaLogRigid3DTransform_8hxx.html" title="animaLogRigid3DTransform.hxx" alt="" coords="2159,229,2361,256"/>
-<area shape="rect" id="node32" href="$animaMatrixLogExp_8h.html" title="animaMatrixLogExp.h" alt="" coords="2049,304,2193,331"/>
-<area shape="rect" id="node36" href="$animaMatrixLogExp_8hxx.html" title="animaMatrixLogExp.hxx" alt="" coords="2043,387,2199,413"/>
-<area shape="rect" id="node43" href="$animaSplitAffine3DTransform_8hxx.html" title="animaSplitAffine3DTransform.hxx" alt="" coords="2725,387,2935,413"/>
+<area shape="rect" id="node2" href="$animaBaseBlockMatcher_8h.html" title="animaBaseBlockMatcher.h" alt="" coords="1407,152,1586,177"/>
+<area shape="rect" id="node27" href="$animaBaseAffineBlockMatcher_8hxx.html" title="animaBaseAffineBlockMatcher.hxx" alt="" coords="2343,79,2570,104"/>
+<area shape="rect" id="node3" href="$animaBaseTransformAgregator_8h.html" title="animaBaseTransformAgregator.h" alt="" coords="241,299,459,324"/>
+<area shape="rect" id="node10" href="$animaBaseBlockMatcher_8hxx.html" title="animaBaseBlockMatcher.hxx" alt="" coords="1290,225,1482,251"/>
+<area shape="rect" id="node7" href="$animaBaseTransformAgregator_8hxx.html" title="animaBaseTransformAgregator.hxx" alt="" coords="5,379,236,404"/>
+<area shape="rect" id="node11" href="$animaBobyqaOptimizer_8h.html" title="animaBobyqaOptimizer.h" alt="" coords="1301,299,1471,324"/>
+<area shape="rect" id="node15" href="$animaVoxelExhaustiveOptimizer_8h.html" title="animaVoxelExhaustiveOptimizer.h" alt="" coords="1494,299,1717,324"/>
+<area shape="rect" id="node17" href="$animaBlockMatchInitializer_8h.html" title="animaBlockMatchInitializer.h" alt="" coords="727,299,917,324"/>
+<area shape="rect" id="node22" href="$animaBlockMatchInitializer_8hxx.html" title="animaBlockMatchInitializer.hxx" alt="" coords="721,379,923,404"/>
+<area shape="rect" id="node29" href="$animaLogRigid3DTransform_8h.html" title="animaLogRigid3DTransform.h" alt="" coords="2463,152,2661,177"/>
+<area shape="rect" id="node41" href="$animaSplitAffine3DTransform_8h.html" title="animaSplitAffine3DTransform.h" alt="" coords="2719,299,2925,324"/>
+<area shape="rect" id="node31" href="$animaLogRigid3DTransform_8hxx.html" title="animaLogRigid3DTransform.hxx" alt="" coords="2220,225,2432,251"/>
+<area shape="rect" id="node32" href="$animaMatrixLogExp_8h.html" title="animaMatrixLogExp.h" alt="" coords="2159,299,2309,324"/>
+<area shape="rect" id="node36" href="$animaMatrixLogExp_8hxx.html" title="animaMatrixLogExp.hxx" alt="" coords="1993,379,2157,404"/>
+<area shape="rect" id="node42" href="$animaSplitAffine3DTransform_8hxx.html" title="animaSplitAffine3DTransform.hxx" alt="" coords="2770,379,2989,404"/>
 </map>

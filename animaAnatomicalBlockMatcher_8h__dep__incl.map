@@ -1,9 +1,9 @@
 <map id="animaAnatomicalBlockMatcher.h" name="animaAnatomicalBlockMatcher.h">
-<area shape="rect" id="node2" href="$animaAnatomicalBlockMatcher_8hxx.html" title="animaAnatomicalBlockMatcher.hxx" alt="" coords="4,88,227,115"/>
-<area shape="rect" id="node3" href="$animaPyramidalDenseSVFMatchingBridge_8hxx.html" title="animaPyramidalDenseSVFMatching\lBridge.hxx" alt="" coords="253,81,480,122"/>
-<area shape="rect" id="node6" href="$animaPyramidalBlockMatchingBridge_8hxx.html" title="animaPyramidalBlockMatching\lBridge.hxx" alt="" coords="511,81,709,122"/>
-<area shape="rect" id="node4" href="$animaPyramidalDenseSVFMatchingBridge_8h.html" title="animaPyramidalDenseSVFMatching\lBridge.h" alt="" coords="253,171,480,213"/>
-<area shape="rect" id="node5" href="$animaDenseSVFBMRegistration_8cxx.html" title="animaDenseSVFBMRegistration.cxx" alt="" coords="250,261,477,288"/>
-<area shape="rect" id="node7" href="$animaPyramidalBlockMatchingBridge_8h.html" title="animaPyramidalBlockMatching\lBridge.h" alt="" coords="511,171,709,213"/>
-<area shape="rect" id="node8" href="$animaPyramidalBMRegistration_8cxx.html" title="animaPyramidalBMRegistration.cxx" alt="" coords="503,261,725,288"/>
+<area shape="rect" id="node2" href="$animaAnatomicalBlockMatcher_8hxx.html" title="animaAnatomicalBlockMatcher.hxx" alt="" coords="5,85,233,111"/>
+<area shape="rect" id="node3" href="$animaPyramidalDenseSVFMatchingBridge_8hxx.html" title="animaPyramidalDenseSVFMatching\lBridge.hxx" alt="" coords="258,79,493,117"/>
+<area shape="rect" id="node6" href="$animaPyramidalBlockMatchingBridge_8hxx.html" title="animaPyramidalBlockMatching\lBridge.hxx" alt="" coords="524,79,728,117"/>
+<area shape="rect" id="node4" href="$animaPyramidalDenseSVFMatchingBridge_8h.html" title="animaPyramidalDenseSVFMatching\lBridge.h" alt="" coords="258,165,493,204"/>
+<area shape="rect" id="node5" href="$animaDenseSVFBMRegistration_8cxx.html" title="animaDenseSVFBMRegistration.cxx" alt="" coords="253,252,490,277"/>
+<area shape="rect" id="node7" href="$animaPyramidalBlockMatchingBridge_8h.html" title="animaPyramidalBlockMatching\lBridge.h" alt="" coords="524,165,728,204"/>
+<area shape="rect" id="node8" href="$animaPyramidalBMRegistration_8cxx.html" title="animaPyramidalBMRegistration.cxx" alt="" coords="514,252,746,277"/>
 </map>

@@ -1,9 +1,7 @@
 <map id="animaT1RelaxometryEstimation.cxx" name="animaT1RelaxometryEstimation.cxx">
-<area shape="rect" id="node7" href="$animaT1RelaxometryEstimationImageFilter_8h.html" title="animaT1RelaxometryEstimation\lImageFilter.h" alt="" coords="828,81,1031,122"/>
-<area shape="rect" id="node23" href="$animaReadWriteFunctions_8h.html" title="animaReadWriteFunctions.h" alt="" coords="1327,88,1509,115"/>
-<area shape="rect" id="node8" href="$animaMaskedImageToImageFilter_8h.html" title="animaMaskedImageToImageFilter.h" alt="" coords="637,179,864,205"/>
-<area shape="rect" id="node10" href="$animaImageRegionSplitterMask_8h.html" title="animaImageRegionSplitter\lMask.h" alt="" coords="895,262,1069,303"/>
-<area shape="rect" id="node20" href="$animaT1RelaxometryEstimationImageFilter_8hxx.html" title="animaT1RelaxometryEstimation\lImageFilter.hxx" alt="" coords="985,171,1188,213"/>
-<area shape="rect" id="node17" href="$animaMaskedImageToImageFilter_8hxx.html" title="animaMaskedImageToImageFilter.hxx" alt="" coords="631,269,871,296"/>
-<area shape="rect" id="node13" href="$animaImageRegionSplitterMask_8hxx.html" title="animaImageRegionSplitter\lMask.hxx" alt="" coords="895,353,1069,394"/>
+<area shape="rect" id="node7" href="$animaT1RelaxometryEstimationImageFilter_8h.html" title="animaT1RelaxometryEstimation\lImageFilter.h" alt="" coords="859,79,1069,117"/>
+<area shape="rect" id="node20" href="$animaReadWriteFunctions_8h.html" title="animaReadWriteFunctions.h" alt="" coords="338,85,527,111"/>
+<area shape="rect" id="node8" href="$animaMaskedImageToImageFilter_8h.html" title="animaMaskedImageToImageFilter.h" alt="" coords="648,172,881,197"/>
+<area shape="rect" id="node18" href="$animaT1RelaxometryEstimationImageFilter_8hxx.html" title="animaT1RelaxometryEstimation\lImageFilter.hxx" alt="" coords="1155,165,1365,204"/>
+<area shape="rect" id="node14" href="$animaMaskedImageToImageFilter_8hxx.html" title="animaMaskedImageToImageFilter.hxx" alt="" coords="977,252,1223,277"/>
 </map>

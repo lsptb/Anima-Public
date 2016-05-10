@@ -1,17 +1,15 @@
 <map id="animaLowMemNLMeansPatientToGroupComparisonBridge.cxx" name="animaLowMemNLMeansPatientToGroupComparisonBridge.cxx">
-<area shape="rect" id="node2" href="$animaLowMemNLMeansPatientToGroupComparisonBridge_8h.html" title="animaLowMemNLMeansPatient\lToGroupComparisonBridge.h" alt="" coords="610,97,813,138"/>
-<area shape="rect" id="node33" href="$animaVectorImagePatchStatistics_8h.html" title="animaVectorImagePatchStatistics.h" alt="" coords="2649,549,2876,576"/>
-<area shape="rect" id="node3" href="$animaImageDataSplitter_8h.html" title="animaImageDataSplitter.h" alt="" coords="240,285,411,312"/>
-<area shape="rect" id="node15" href="$animaNLMeansPatientToGroupComparisonImageFilter_8h.html" title="animaNLMeansPatientToGroup\lComparisonImageFilter.h" alt="" coords="1415,187,1617,229"/>
-<area shape="rect" id="node9" href="$animaImageDataSplitter_8hxx.html" title="animaImageDataSplitter.hxx" alt="" coords="5,376,187,403"/>
-<area shape="rect" id="node16" href="$animaMaskedImageToImageFilter_8h.html" title="animaMaskedImageToImageFilter.h" alt="" coords="1021,285,1248,312"/>
-<area shape="rect" id="node25" href="$animaNLMeansPatientToGroupComparisonImageFilter_8hxx.html" title="animaNLMeansPatientToGroup\lComparisonImageFilter.hxx" alt="" coords="1856,278,2059,319"/>
-<area shape="rect" id="node18" href="$animaImageRegionSplitterMask_8h.html" title="animaImageRegionSplitter\lMask.h" alt="" coords="1551,369,1725,410"/>
-<area shape="rect" id="node24" href="$animaMaskedImageToImageFilter_8hxx.html" title="animaMaskedImageToImageFilter.hxx" alt="" coords="705,376,945,403"/>
-<area shape="rect" id="node21" href="$animaImageRegionSplitterMask_8hxx.html" title="animaImageRegionSplitter\lMask.hxx" alt="" coords="1354,459,1528,501"/>
-<area shape="rect" id="node28" href="$animaNLMeansVectorPatchSearcher_8h.html" title="animaNLMeansVectorPatchSearcher.h" alt="" coords="2474,376,2717,403"/>
-<area shape="rect" id="node29" href="$animaNonLocalPatchBaseSearcher_8h.html" title="animaNonLocalPatchBaseSearcher.h" alt="" coords="1902,467,2137,493"/>
-<area shape="rect" id="node32" href="$animaNLMeansVectorPatchSearcher_8hxx.html" title="animaNLMeansVectorPatchSearcher.hxx" alt="" coords="2463,467,2719,493"/>
-<area shape="rect" id="node31" href="$animaNonLocalPatchBaseSearcher_8hxx.html" title="animaNonLocalPatchBaseSearcher.hxx" alt="" coords="1841,549,2088,576"/>
-<area shape="rect" id="node34" href="$animaVectorImagePatchStatistics_8hxx.html" title="animaVectorImagePatchStatistics.hxx" alt="" coords="2641,624,2879,651"/>
+<area shape="rect" id="node2" href="$animaLowMemNLMeansPatientToGroupComparisonBridge_8h.html" title="animaLowMemNLMeansPatient\lToGroupComparisonBridge.h" alt="" coords="2160,92,2371,131"/>
+<area shape="rect" id="node32" href="$animaVectorImagePatchStatistics_8h.html" title="animaVectorImagePatchStatistics.h" alt="" coords="62,512,293,537"/>
+<area shape="rect" id="node3" href="$animaImageDataSplitter_8h.html" title="animaImageDataSplitter.h" alt="" coords="2505,272,2680,297"/>
+<area shape="rect" id="node15" href="$animaNLMeansPatientToGroupComparisonImageFilter_8h.html" title="animaNLMeansPatientToGroup\lComparisonImageFilter.h" alt="" coords="1619,179,1827,217"/>
+<area shape="rect" id="node9" href="$animaImageDataSplitter_8hxx.html" title="animaImageDataSplitter.hxx" alt="" coords="2557,359,2745,384"/>
+<area shape="rect" id="node16" href="$animaMaskedImageToImageFilter_8h.html" title="animaMaskedImageToImageFilter.h" alt="" coords="1531,272,1763,297"/>
+<area shape="rect" id="node24" href="$animaNLMeansPatientToGroupComparisonImageFilter_8hxx.html" title="animaNLMeansPatientToGroup\lComparisonImageFilter.hxx" alt="" coords="810,265,1017,304"/>
+<area shape="rect" id="node22" href="$animaMaskedImageToImageFilter_8hxx.html" title="animaMaskedImageToImageFilter.hxx" alt="" coords="1052,359,1298,384"/>
+<area shape="rect" id="node27" href="$animaNLMeansVectorPatchSearcher_8h.html" title="animaNLMeansVectorPatchSearcher.h" alt="" coords="48,359,299,384"/>
+<area shape="rect" id="node28" href="$animaNonLocalPatchBaseSearcher_8h.html" title="animaNonLocalPatchBaseSearcher.h" alt="" coords="355,439,598,464"/>
+<area shape="rect" id="node31" href="$animaNLMeansVectorPatchSearcher_8hxx.html" title="animaNLMeansVectorPatchSearcher.hxx" alt="" coords="45,439,310,464"/>
+<area shape="rect" id="node30" href="$animaNonLocalPatchBaseSearcher_8hxx.html" title="animaNonLocalPatchBaseSearcher.hxx" alt="" coords="368,512,624,537"/>
+<area shape="rect" id="node33" href="$animaVectorImagePatchStatistics_8hxx.html" title="animaVectorImagePatchStatistics.hxx" alt="" coords="59,585,304,611"/>
 </map>

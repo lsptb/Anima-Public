@@ -1,8 +1,8 @@
 <map id="animaReorientation.h" name="animaReorientation.h">
-<area shape="rect" id="node4" href="$animaGradientFileReader_8h.html" title="animaGradientFileReader.h" alt="" coords="673,80,852,107"/>
-<area shape="rect" id="node10" href="$animaGradientFileReader_8hxx.html" title="animaGradientFileReader.hxx" alt="" coords="667,155,857,181"/>
-<area shape="rect" id="node14" href="$animaVectorOperations_8h.html" title="animaVectorOperations.h" alt="" coords="619,237,785,264"/>
-<area shape="rect" id="node17" href="$animaVectorOperations_8hxx.html" title="animaVectorOperations.hxx" alt="" coords="621,320,800,347"/>
-<area shape="rect" id="node19" href="$animaLogarithmFunctions_8h.html" title="animaLogarithmFunctions.h" alt="" coords="565,395,744,421"/>
-<area shape="rect" id="node20" href="$animaLogarithmFunctions_8hxx.html" title="animaLogarithmFunctions.hxx" alt="" coords="561,469,753,496"/>
+<area shape="rect" id="node4" href="$animaGradientFileReader_8h.html" title="animaGradientFileReader.h" alt="" coords="509,79,694,104"/>
+<area shape="rect" id="node10" href="$animaGradientFileReader_8hxx.html" title="animaGradientFileReader.hxx" alt="" coords="639,152,836,177"/>
+<area shape="rect" id="node15" href="$animaVectorOperations_8h.html" title="animaVectorOperations.h" alt="" coords="393,225,565,251"/>
+<area shape="rect" id="node18" href="$animaVectorOperations_8hxx.html" title="animaVectorOperations.hxx" alt="" coords="386,299,571,324"/>
+<area shape="rect" id="node20" href="$animaLogarithmFunctions_8h.html" title="animaLogarithmFunctions.h" alt="" coords="519,372,705,397"/>
+<area shape="rect" id="node21" href="$animaLogarithmFunctions_8hxx.html" title="animaLogarithmFunctions.hxx" alt="" coords="517,445,716,471"/>
 </map>
